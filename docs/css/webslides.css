@@ -860,7 +860,7 @@ h4 svg {
 
 h1 {
   font-size: 4rem;
-  line-height: 5.6rem; }
+  line-height: 5.6rem;}
   @media (min-width: 768px) {
     h1 {
       font-size: 5.6rem;
@@ -1449,11 +1449,11 @@ section,
   page-break-after: always;
   position: relative;
   word-wrap: break-word; }
-  @media (min-width: 1024px) {
+  /*@media (min-width: 1024px) {
     section,
     .slide {
       padding-bottom: 12rem;
-      padding-top: 12rem; } }
+      padding-top: 12rem; } }*/
 
 /*slide with no padding (full card, .embed youtube video...) */
 .fullscreen {

@@ -1,4 +1,5 @@
-/*!
+/*
+ *!
  * Name: WebSlides
  * Version: 1.5.0
  * Date: 2017-09-16
