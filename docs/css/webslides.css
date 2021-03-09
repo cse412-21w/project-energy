@@ -313,6 +313,10 @@ dt {
 dd {
   margin: 0; }
 
+div #duncvis {
+  position: center;
+}
+
 /*=== Clearing === */
 header:before, header:after,
 main:before,
