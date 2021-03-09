@@ -15,6 +15,7 @@
         <script src="https://cdn.jsdelivr.net/npm/vega-lite"></script>
         <script src="https://cdn.jsdelivr.net/npm/vega-lite-api"></script>
         <script src="https://cdn.jsdelivr.net/npm/vega-tooltip"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
         <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,900;1,400;1,900&display=swap" rel="stylesheet">
     </head>
 
@@ -39,7 +40,7 @@
                 <section>
                    <h1>Climate Change Visualization</h1>
                     <p> The 20th century saw an unprecedented rise in industrialization of soceities; thus, an exponential increase in greenhouse gas emmisions. Greater access to power has improved the lives of an unfathomable number of the worlds population. Yet, this is not without a cost. </p>
-                    <img src="static/CO2Emissions.png" alt="Annual CO2 Emissions, world" width="1000" height="80">
+                    <div id="duncvis"></div>
                     <p> From average temperature data each year, ranging from 1880 to 2021, we can see that anomalies from the 20th century average have progressively become more positive, more frequently. Continued increase in global temperature will lead to aggressively changing climates in all regions of the world, facilitating greater droughts and extreme weather events, resulting in mass forced migration between regions and greater instability.</p>
                     <img src="static/TempAnom.png" alt="Average Temperate Anomalies" width="1000" height="80">
                     <p> Each of these images are static currently, the final product will contain a interactive visual where when a year/mark is selected on the CO2 emmisions chart, the temperature anomaly value will display for that year</p>
@@ -157,6 +158,12 @@
         </main>
         <script src="https://cse412-21w.github.io/project-demo/d3Demo.7d177574.js"></script>
         <script src="js/webslides.js"></script>
+        <script type="text/javascript">
+            var spec = "https://raw.githubusercontent.com/dreece2304/CSE-412/main/ClimateData.vg.json";
+            vegaEmbed('#duncvis', spec).then(function(result) {
+            // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+             }).catch(console.error);
+        </script>
         <script>
             window.ws = new WebSlides() 
         </script>
