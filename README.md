@@ -1,10 +1,13 @@
 # Final Project Demo
 ## Team Members
-Place your team member names here.
+Mohammed Ali
+Duncan Reece
+Yeesa Kee
+James Hutchinson
 ### Contribution Statements
 Add individual contribution statements here.
 ## Project Proposal Abstract
-This is the space for you to add a description for your project.
+Climate change is a modern problem our generation is facing and it requires us to develop solutions to combat it. A major hurdle to reducing our climate impact is through reducing the burning of fossil fuels as a primary energy source. The energy from fossil fuels is an indirect method of harnessing the sun’s power; whereas, solar panels allow for direct and clean energy conversion. Our goal is to create a cohesive research article assessing the feasibility of using solar panels for the majority of power demands in Washington state. Encompassing findings on topics such as power consumption and projections for the next 50 years and making comparisons to the availability of solar energy and its proximity to where it is consumed.  The article will visualize the progress of solar power in our electricity system and how it will have to further improve to keep-up with a growing population and energy demand. 
 
 ## Getting Started
 

@@ -1,0 +1,47 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/dreece2304/CSE-412/main/CombinedData.json"},
+  "width": 650,
+  "height": 400,
+  "encoding": {"x": {"field": "Year", "type": "temporal"}},
+  "layer": [
+    {
+     "encoding": {
+       "color": {"field": "Country", "type": "nominal"},
+       "y": {"field": "Emissions", "type":"quantitative", "title": "GHG Emissions [Billion Tons CO2]"} 
+    },
+    "layer": [
+      {"mark": "line"},
+      {"transform": [{"filter": {"param": "hover", "empty": false}}], "mark": "point"}
+    ]
+    },
+    {
+      "transform": [{"pivot": "Country", "value": "Emissions", "groupby": ["Year"]}],
+      "mark": "rule",
+      "encoding": {
+        "opacity": {
+          "condition": {"value": 0.2, "param": "hover", "empty": false},
+          "value": 0
+        },
+        "tooltip": [
+          {"field": "World", "type": "quantitative", "format": ".2f"},
+          {"field": "China", "type": "quantitative", "format": ".2f"},
+          {"field": "EU", "type": "quantitative","format": ".2f"},
+          {"field": "India", "type": "quantitative","format": ".2f"},
+          {"field": "USA", "type": "quantitative","format": ".2f"}
+        ]
+      },
+      "params": [{
+        "name": "hover",
+        "select": {
+          "type": "point",
+          "fields": ["Year"],
+          "nearest": true,
+          "on": "mouseover",
+          "clear": "mouseout"
+        }
+      }]
+    }
+    ]
+}
