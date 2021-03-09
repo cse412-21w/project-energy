@@ -315,6 +315,7 @@ dd {
 
 div .chart-wrapper {
   position: center;
+  align-content: center;
 }
 
 /*=== Clearing === */
