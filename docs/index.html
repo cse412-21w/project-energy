@@ -1,6 +1,14 @@
 <!DOCTYPE HTML>
 <html lang="en">
     <head>
+    <style>
+    .center {
+        margin: auto;
+        width: 60%;
+        border: 3px solid #73AD21;
+        padding: 10px;
+}
+</style>
         <meta charset="utf-8">
         <meta name ="viewport" content = "width=device-width, initial scale = 1.0">
         <title>CSE 412 Project Demo</title>
@@ -39,9 +47,8 @@
                 <!--Slide 2 -->
                 <section>
                    <h2>Climate Change Visualization</h1>
-                    <p> The 20th century saw an unprecedented rise in industrialization of soceities; thus, an exponential increase in greenhouse gas emmisions. Greater access to power has improved the lives of an unfathomable number of the worlds population. Yet, this is not without a cost. </p>
-                    <p style="text-align: center;">
-                    <div id="duncvis"></div></p>
+                    <p> The 20th century saw an unprecedented rise in industrialization of soceities; thus, an exponential increase in greenhouse gas emmisions. Greater access to power has improved the lives of an unfathomable number of the worlds population. Yet, this is not without a cost. </p
+                    <div class="center" id="duncvis"></div>
                     <p> From average temperature data each year, ranging from 1880 to 2021, we can see that anomalies from the 20th century average have progressively become more positive, more frequently. Continued increase in global temperature will lead to aggressively changing climates in all regions of the world, facilitating greater droughts and extreme weather events, resulting in mass forced migration between regions and greater instability.</p>
                     <img src="static/TempAnom.png" alt="Average Temperate Anomalies" width="1000" height="80">
                     <p> Each of these images are static currently, the final product will contain a interactive visual where when a year/mark is selected on the CO2 emmisions chart, the temperature anomaly value will display for that year</p>
