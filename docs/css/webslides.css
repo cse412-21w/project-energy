@@ -313,7 +313,7 @@ dt {
 dd {
   margin: 0; }
 
-canvas {
+div .chart-wrapper {
   position: center;
 }
 
