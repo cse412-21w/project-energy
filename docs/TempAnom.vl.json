@@ -3,11 +3,11 @@
   "data": {
     "url": "https://raw.githubusercontent.com/dreece2304/CSE-412/main/CombinedData.json"
   },
-  "width": 800,
-  "height": 500,
+  "width": 650,
+  "height": 400,
   "params": [{
     "name": "Highlight", "value": 1880,
-    "bind":{"input": "range", "min": 1880, "max": 2020, "step": 1}
+    "bind":{"input": "range", "min": 1880, "max": 2020, "step": 10}
   }
     ],
   "transform": [
