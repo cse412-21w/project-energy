@@ -41,8 +41,10 @@
                    <h1>Climate Change Visualization</h1>
                     <p> The 20th century saw an unprecedented rise in industrialization of soceities; thus, an exponential increase in greenhouse gas emmisions. Greater access to power has improved the lives of an unfathomable number of the worlds population. Yet, this is not without a cost. </p>
                     <div id="duncvis" style="display:flex; justify-content: center;"> </div>
-                    <p> From average temperature data each year, ranging from 1880 to 2021, we can see that anomalies from the 20th century average have progressively become more positive, more frequently. Continued increase in global temperature will lead to aggressively changing climates in all regions of the world, facilitating greater droughts and extreme weather events, resulting in mass forced migration between regions and greater instability.</p>
-                    <img src="static/TempAnom.png" alt="Average Temperate Anomalies" width="1000" height="80">
+                    <div class="side-by-side">
+                      <img src="static/TempAnom.png" alt="Average Temperate Anomalies" width="800" height="80">
+                      <p class = "side-text">From average temperature data each year, ranging from 1880 to 2021, we can see that anomalies from the 20th century average have progressively become more positive, more frequently. Continued increase in global temperature will lead to aggressively changing climates in all regions of the world, facilitating greater droughts and extreme weather events, resulting in mass forced migration between regions and greater instability.</p>
+                    </div>
                     <p> Each of these images are static currently, the final product will contain a interactive visual where when a year/mark is selected on the CO2 emmisions chart, the temperature anomaly value will display for that year</p>
                 </section>
 
@@ -50,18 +52,21 @@
                 <section>
                     <h1>History of Solar Power Consumption</h1>
                     <p> The USA has re-joined the Paris Climate Accord and is beginning to push in the right direction when it comes to green electricity production. The state of Washington is a leader in the Lower 48 when it comes to producing electricity from green sources, with the vast majority stemming from hydroelectric dams. However, there is still around 20% from coal and gas fired power plants and the aim should be to eliminate this completely. Further construction of dams is not always feasible due to the destruction of habitat for animals and displacement of people. </p>
-                    <img src="static/Current Energy Make-up.png" alt="Washington State Electricity production" width="1000" height="80">
-                    <p> Washington only uses a fraction of the total energy it could harvest directly from the Sun, the following data will show that it is possible for the production capacity from coal and gas to be entirely replaced with solar photovoltaics, allowing WA to produce all electricity from sustainable sources.</p>
+                    <div class = "side-by-side">
+                      <img src="static/Current Energy Make-up.png" alt="Washington State Electricity production" width="800" height="50">
+                      <p class = "side-text"> Washington only uses a fraction of the total energy it could harvest directly from the Sun, the following data will show that it is possible for the production capacity from coal and gas to be entirely replaced with solar photovoltaics, allowing WA to produce all electricity from sustainable sources.</p>
+                    </div>
                     <p>A visual of current solar power output and the areas the solar plants reside will finish off this section.</p>
                 </section>
 
                 <!--Slide 4 -->
                 <section id="section-4" class="slide current">
                     <h1> The Solar Resource in Washington State </h1>
-                    <p> A major challenge of relying on solar energy in WA is that the bulk of the energy is consumed in densely populated Western Washington, known for having overcast weather for half of the year. Solar irradation is rather abundant in Eastern WA. This presents an opportunity of powering Eastern WA communities, while also sending energy over the cascade mountain range to Western WA.</p>
-                    <p> Fortunately, the infrastructure to supply Western WA with energy produced in Eastern WA is largely already in place. In fact, Eastern WA already supplies hydroelectric power throughout WA, 10 other states, and Canada.</p>
-                    <p> The following visualization shows the population distribution in WA and the available solar insolation for a typical year.</p>
-                    <div class="tableauPlaceholder" id="viz1615043085090" style="position: relative; width: 85%; height: 480px; overflow: hidden; display: block;">
+                    <p> A major challenge of relying on solar energy in WA is that the bulk of the energy is consumed in densely populated Western Washington, known for having overcast weather for half of the year. Solar insolation, or the available solar energy that can be capured on a given surface area, is rather abundant in Eastern WA.</p>
+                    <p> This presents an opportunity of powering Eastern WA communities, while also sending energy over the cascade mountain range to Western WA.</p>
+                    <p> Fortunately, the infrastructure to supply Western WA with energy produced in Eastern WA is largely already in place. Electric power is transported across the Cascade Mountain Range every day. In fact, Eastern WA already supplies hydroelectric power throughout WA, 10 other states, and Canada.</p>
+                    <p> The following visualization shows the population distribution in WA and the available average solar insolation, in kWh/m^2/day for a typical year.</p>
+                    <div class="tableauPlaceholder" id="viz1615043085090" style="position: relative; width: 85%; height: 500px; overflow: hidden; display: block;">
                         <noscript>
                             <a href='https:&#47;&#47;cse412-21w.github.io&#47;project-energy&#47;'>
                                 <img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;po&#47;popandrad&#47;PopulationLocationandAvailableSolarEnergy&#47;1_rss.png' style='border: none' />
@@ -69,14 +74,34 @@
                         </noscript>
                     <iframe frameboarder="0" marginheight="0" title="Population and Solar" allowtransparency="true" allowfullscreen="true" class="tableauViz" style="display:block; width: 85%; height:480px; margin 0px; padding: 0px; border: none;" src="https://public.tableau.com/views/popandrad/PopulationLocationandAvailableSolarEnergy?:embed=y&amp;:showVizHome=no&amp;:host_url=https%3A%2F%2Fpublic.tableau.com%2F&amp;:embed_code_version=3&amp;:tabs=no&amp;:toolbar=yes&amp;:animate_transition=yes&amp;:display_static_image=no&amp;:display_spinner=no&amp;:display_overlay=yes&amp;:display_count=yes&amp;:language=en&amp;:loadOrderID=0">
                         </iframe>
-                    </div>                
+                    </div>
+                    <a href="https://data.wa.gov/Demographics/WAOFM-April-1-Population-by-State-County-and-City-/2hia-rqet"><p><strong>source (population)</strong></a>
+                    <a href="https://power.larc.nasa.gov/data-access-viewer/"><p><strong>source (solar insolation)</strong></a></p>
+                    <p> Additionally, the figure below illustrates the current paths of power distribution in the state of Washington. This shows that the infrastructure is in place to send solar energy produced in the East side of the state could be easily distributed to the more populated West side of the state.</p>
+                    <div class="tableauPlaceholder" id="viz1615043085090" style="position: relative; width: 65%; height: 500px; overflow: hidden; display: block;">
+                        <noscript>
+                            <a href='#'>
+                                <img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ee&#47;eeeeeleeectricity&#47;Sheet1&#47;1_rss.png' style='border: none' />
+                            </a>
+                        </noscript>
+                    <iframe frameboarder="0" marginheight="0" title="WA State Power Grid" allowtransparency="true" allowfullscreen="true" class="tableauViz" style="display:block; width: 85%; height:480px; margin 0px; padding: 0px; border: none;" src="https://public.tableau.com/views/eeeeeleeectricity/Sheet1?:embed=y&amp;:showVizHome=no&amp;:host_url=https%3A%2F%2Fpublic.tableau.com%2F&amp;:embed_code_version=3&amp;:tabs=no&amp;:toolbar=yes&amp;:animate_transition=yes&amp;:display_static_image=no&amp;:display_spinner=no&amp;:display_overlay=yes&amp;:display_count=yes&amp;:language=en&amp;:loadOrderID=0">
+                        </iframe>
+                    <a href="https://hifld-geoplatform.opendata.arcgis.com/datasets/electric-power-transmission-lines"><p><strong>source</strong></a>
+                        
+                        </p>
+                    </div>
                 </section>
 
                 <!-- Slide 5 -->
                 <!--Sunshine days associated by season -->
                 <section>
-                    <p> Solar Panels work better on cold days with a lot of sun what does washington look like throughout the year in terms of sun vs weather with length of day taken into account </p>
-                    <p> Visual </p>
+                    <h1> Sunshine in Washington </h1> 
+                    <p> Solar panels operate best in cold conditions;however, the sun must be out. Washington is known for its rainy season and hot summers. Although Washington may not have
+                        optimal weather for solar panels it does have some of the longest days during the Summers and Winters.</p>
+                    <img src="static/average_daylight.png" alt="Average Daylight" width="800" height="80">
+                    <p> During the summer season sunshine can beam on solar panels to generate energy for up to 15.9 hours in June. In winter it could be as low as 8.5 hours, but
+                        the solar panels may perform better due to the colder weather. </p>
+                        <a href="https://www.esrl.noaa.gov/gmd/grad/solcalc/table.php?lat=47.6&lon=-122.32&year=2021"><p><strong>source</strong></p></a>
                 </section>
                 <!--Sunshine days associated by season -->
 
@@ -88,7 +113,7 @@
                 </section>
 
                 <!--Our vision  -->
-                
+
 
                 <!--TEST SLIDE ---------------------------------------------------------------------->
                 <section>
@@ -100,7 +125,7 @@
 
                 <!--TEST SLIDE ---------------------------------------------------------------------->
 
-                <!--Final Slide -->
+                <!--Final Slide OUR TEAM -->
                 <section>
                     <div class="wrap">
                       <h2><strong>Our Team</strong></h2>
@@ -131,7 +156,7 @@
                         </li>
                         <li>
                             <figure>
-                              <img src="static/mohammed_portrait.JPG" alt="">
+                              <img src="static/yeesakee.jpg" alt="">
                               <figcaption>
                                 <h2><strong>Yeesa Kee</strong></h2>
                                 <a href="https://www.linkedin.com/in/yeesakee/"><p><strong>LinkedIn</strong></p></a>
@@ -166,7 +191,7 @@
              }).catch(console.error);
         </script>
         <script>
-            window.ws = new WebSlides() 
+            window.ws = new WebSlides()
         </script>
     </body>
 </html>

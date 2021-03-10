@@ -1,4 +1,5 @@
-/*!
+/*
+ *!
  * Name: WebSlides
  * Version: 1.5.0
  * Date: 2017-09-16
@@ -816,7 +817,7 @@ var WebSlides = function () {
         _ref$loop = _ref.loop,
         loop = _ref$loop === undefined ? true : _ref$loop,
         _ref$minWheelDelta = _ref.minWheelDelta,
-        minWheelDelta = _ref$minWheelDelta === undefined ? 40 : _ref$minWheelDelta,
+        minWheelDelta = _ref$minWheelDelta === undefined ? 130 : _ref$minWheelDelta,
         _ref$navigateOnScroll = _ref.navigateOnScroll,
         navigateOnScroll = _ref$navigateOnScroll === undefined ? true : _ref$navigateOnScroll,
         _ref$scrollWait = _ref.scrollWait,
