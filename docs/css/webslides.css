@@ -3806,3 +3806,10 @@ Slides Index
   margin-left: 30px;
   padding: 20px;
 }
+
+.tableauPlaceholder {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  padding-left: 0px;
+}
