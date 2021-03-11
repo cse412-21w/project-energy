@@ -1,70 +1,65 @@
 {
-  "$schema": "https://vega.github.io/schema/vega-lite/v5.json", 
-  "data": {
-    "url": "https://raw.githubusercontent.com/dreece2304/CSE-412/main/CombinedData.json"
-  },
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Multi-series line chart with labels and interactive highlight on hover.  We also set the selection's initial value to provide a better screenshot",
+  "data": {"url": "https://raw.githubusercontent.com/dreece2304/CSE-412/main/CombinedData.json"},
+  "padding": 5,
   "width": 650,
   "height": 400,
-  "params": [{
-    "name": "Highlight", "value": 1880,
-    "bind":{"input": "range", "min": 1880, "max": 2020, "step": 10}
-  }
-    ],
   "transform": [
     {"calculate": "year(datum.Year)", "as": "year"},
     {"calculate": "floor(datum.year / 10)", "as": "decade"},
-    {
-      "calculate": "(datum.year % 10) + (month(datum.Year)/12)",
-      "as": "scaled_date"
-    },
-    {
-      "calculate": "datum.first_Year === datum.scaled_Year ? 'first' : datum.last_Year === datum.scaled_Year ? 'last' : null",
-      "as": "end"
-    }
-  ],
+    {"calculate": "(datum.year % 10) + (month(datum.Year)/12)", "as": "scaled_date"},
+    {"calculate": "datum.first_Year === datum.scaled_Year ? 'first' : datum.last_Year === datum.scaled_Year ? 'last' : null", "as": "end"}],
   "encoding": {
-    "x": {
-      "type": "quantitative",
-      "title": "Year into Decade",
-      "axis": {"tickCount": 11}
-    },
-    "y": {
-      "title": "Temperature Anomaly from Average",
-      "type": "quantitative",
-      "scale": {"zero": false}
-    },
+    "x": {"field": "scaled_date", "type": "quantitative", "title": "Year into Decade"},
+    "y": {"field": "Temperature", "type": "quantitative", "title": "Temperature Anomaly from Average"},
     "color": {
-      "field": "decade",
-      "type": "ordinal",
-      "scale": {"scheme": "magma"},
-      "legend": null
-      }
+      "condition": {
+        "param": "hover",
+        "field":"decade",
+        "type":"ordinal",
+        "legend": null,
+        "scale": {"scheme": "magma"}
+      },
+      "value": "grey"
     },
-  "layer": [
-    {
-    "mark": "line",
+    "opacity": {
+      "condition": {
+        "param": "hover",
+        "value": 1
+      },
+      "value": 0.2
+    }
+  },
+  "layer": [{
+    "params": [{
+      "name": "hover",
+      "select": {
+        "type": "point",
+        "fields": ["decade"],
+        "on": "mouseover"
+      },
+      "value": [{"decade": 188}]
+    }],
+    "mark": {"type": "line", "strokeWidth": 8, "stroke": "transparent"}
+  }, {
+    "mark": "line"
+  }, {
     "encoding": {
-      "x": {"field": "scaled_date"},
-      "y": {"field": "Temperature"}
-      }
+      "x": {"aggregate": "max", "field": "date"},
+      "y": {"aggregate": {"argmax": "date"}, "field": "price"}
     },
-    {
-    "mark": {"type": "text", "baseline": "top", "aria": false},
+    "layer": [{
+      "mark": {"type": "circle"}
+    },
+        {
+    "mark": {"type": "text", "align": "left", "dx": 4},
     "encoding": {
-      "x": {"aggregate": "min", "field": "scaled_date"},
+      "x": {"aggregate": "max", "field": "scaled_date"},
       "y": {"aggregate": {"argmin": "scaled_date"}, "field": "Temperature"},
       "text": {"aggregate": {"argmin": "scaled_date"}, "field": "year"}
       }
-    },
-    {
-    "mark": {"type": "text", "aria": false},
-    "encoding": {
-      "x": {"aggregate": "max", "field": "scaled_date"},
-      "y": {"aggregate": {"argmax": "scaled_date"}, "field": "Temperature"},
-      "text": {"aggregate": {"argmax": "scaled_date"}, "field": "year"}
-      }
-    }
-  ],
-  "config": {"text": {"align": "left", "dx": 3, "dy": 1}}
-
+    }]
+  }],
+  "config": {"view": {"stroke": null}}
 }
