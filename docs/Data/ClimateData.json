@@ -1,0 +1,4262 @@
+[
+  {
+    "Year": "01/01/1880",
+    "Temperature": -0.06,
+    "Country": "USA",
+    "Emissions": 1.934592
+  },
+  {
+    "Year": "01/01/1881",
+    "Temperature": -0.09,
+    "Country": "USA",
+    "Emissions": 2.183744
+  },
+  {
+    "Year": "01/01/1882",
+    "Temperature": 0.08,
+    "Country": "USA",
+    "Emissions": 5.232192
+  },
+  {
+    "Year": "01/01/1883",
+    "Temperature": -0.28,
+    "Country": "USA",
+    "Emissions": 5.591264
+  },
+  {
+    "Year": "01/01/1884",
+    "Temperature": -0.24,
+    "Country": "USA",
+    "Emissions": 6.617184
+  },
+  {
+    "Year": "01/01/1885",
+    "Temperature": -0.45,
+    "Country": "USA",
+    "Emissions": 7.430592
+  },
+  {
+    "Year": "01/01/1886",
+    "Temperature": -0.18,
+    "Country": "USA",
+    "Emissions": 8.599408
+  },
+  {
+    "Year": "01/01/1887",
+    "Temperature": -0.53,
+    "Country": "USA",
+    "Emissions": 8.244
+  },
+  {
+    "Year": "01/01/1888",
+    "Temperature": -0.33,
+    "Country": "USA",
+    "Emissions": 8.797264
+  },
+  {
+    "Year": "01/01/1889",
+    "Temperature": -0.03,
+    "Country": "USA",
+    "Emissions": 10.14928
+  },
+  {
+    "Year": "01/01/1890",
+    "Temperature": -0.34,
+    "Country": "USA",
+    "Emissions": 13.311312
+  },
+  {
+    "Year": "01/01/1891",
+    "Temperature": -0.4,
+    "Country": "USA",
+    "Emissions": 11.292448
+  },
+  {
+    "Year": "01/01/1892",
+    "Temperature": -0.25,
+    "Country": "USA",
+    "Emissions": 12.413632
+  },
+  {
+    "Year": "01/01/1893",
+    "Temperature": -0.74,
+    "Country": "USA",
+    "Emissions": 14.461808
+  },
+  {
+    "Year": "01/01/1894",
+    "Temperature": -0.42,
+    "Country": "USA",
+    "Emissions": 14.469136
+  },
+  {
+    "Year": "01/01/1895",
+    "Temperature": -0.44,
+    "Country": "USA",
+    "Emissions": 15.385136
+  },
+  {
+    "Year": "01/01/1896",
+    "Temperature": -0.15,
+    "Country": "USA",
+    "Emissions": 14.718288
+  },
+  {
+    "Year": "01/01/1897",
+    "Temperature": -0.13,
+    "Country": "USA",
+    "Emissions": 14.025792
+  },
+  {
+    "Year": "01/01/1898",
+    "Temperature": -0.01,
+    "Country": "USA",
+    "Emissions": 15.227584
+  },
+  {
+    "Year": "01/01/1899",
+    "Temperature": -0.14,
+    "Country": "USA",
+    "Emissions": 15.487728
+  },
+  {
+    "Year": "1/1/1900",
+    "Temperature": -0.35,
+    "Country": "USA",
+    "Emissions": 16.444032
+  },
+  {
+    "Year": "1/1/1901",
+    "Temperature": -0.13,
+    "Country": "USA",
+    "Emissions": 19.924832
+  },
+  {
+    "Year": "1/1/1902",
+    "Temperature": -0.1,
+    "Country": "USA",
+    "Emissions": 21.628592
+  },
+  {
+    "Year": "1/1/1903",
+    "Temperature": -0.24,
+    "Country": "USA",
+    "Emissions": 25.157024
+  },
+  {
+    "Year": "1/1/1904",
+    "Temperature": -0.62,
+    "Country": "USA",
+    "Emissions": 27.073296
+  },
+  {
+    "Year": "1/1/1905",
+    "Temperature": -0.35,
+    "Country": "USA",
+    "Emissions": 29.517184
+  },
+  {
+    "Year": "1/1/1906",
+    "Temperature": -0.14,
+    "Country": "USA",
+    "Emissions": 34.815328
+  },
+  {
+    "Year": "1/1/1907",
+    "Temperature": -0.37,
+    "Country": "USA",
+    "Emissions": 37.094336
+  },
+  {
+    "Year": "1/1/1908",
+    "Temperature": -0.38,
+    "Country": "USA",
+    "Emissions": 39.307392
+  },
+  {
+    "Year": "1/1/1909",
+    "Temperature": -0.58,
+    "Country": "USA",
+    "Emissions": 49.255152
+  },
+  {
+    "Year": "1/1/1910",
+    "Temperature": -0.36,
+    "Country": "USA",
+    "Emissions": 51.178752
+  },
+  {
+    "Year": "1/1/1911",
+    "Temperature": -0.55,
+    "Country": "USA",
+    "Emissions": 49.104928
+  },
+  {
+    "Year": "1/1/1912",
+    "Temperature": -0.28,
+    "Country": "USA",
+    "Emissions": 55.843024
+  },
+  {
+    "Year": "1/1/1913",
+    "Temperature": -0.35,
+    "Country": "USA",
+    "Emissions": 68.795264
+  },
+  {
+    "Year": "1/1/1914",
+    "Temperature": 0.11,
+    "Country": "USA",
+    "Emissions": 76.10128
+  },
+  {
+    "Year": "1/1/1915",
+    "Temperature": -0.15,
+    "Country": "USA",
+    "Emissions": 91.248256
+  },
+  {
+    "Year": "1/1/1916",
+    "Temperature": -0.13,
+    "Country": "USA",
+    "Emissions": 78.81264
+  },
+  {
+    "Year": "1/1/1917",
+    "Temperature": -0.53,
+    "Country": "USA",
+    "Emissions": 75.764192
+  },
+  {
+    "Year": "1/1/1918",
+    "Temperature": -0.32,
+    "Country": "USA",
+    "Emissions": 94.05488
+  },
+  {
+    "Year": "1/1/1919",
+    "Temperature": -0.23,
+    "Country": "USA",
+    "Emissions": 111.902224
+  },
+  {
+    "Year": "1/1/1920",
+    "Temperature": -0.2,
+    "Country": "USA",
+    "Emissions": 120.93032
+  },
+  {
+    "Year": "1/1/1921",
+    "Temperature": -0.07,
+    "Country": "USA",
+    "Emissions": 117.823248
+  },
+  {
+    "Year": "1/1/1922",
+    "Temperature": -0.3,
+    "Country": "USA",
+    "Emissions": 161.69232
+  },
+  {
+    "Year": "1/1/1923",
+    "Temperature": -0.24,
+    "Country": "USA",
+    "Emissions": 171.771984
+  },
+  {
+    "Year": "1/1/1924",
+    "Temperature": -0.22,
+    "Country": "USA",
+    "Emissions": 155.741984
+  },
+  {
+    "Year": "1/1/1925",
+    "Temperature": -0.4,
+    "Country": "USA",
+    "Emissions": 166.228352
+  },
+  {
+    "Year": "1/1/1926",
+    "Temperature": 0.13,
+    "Country": "USA",
+    "Emissions": 146.911744
+  },
+  {
+    "Year": "1/1/1927",
+    "Temperature": -0.23,
+    "Country": "USA",
+    "Emissions": 134.278272
+  },
+  {
+    "Year": "1/1/1928",
+    "Temperature": -0.08,
+    "Country": "USA",
+    "Emissions": 131.517631
+  },
+  {
+    "Year": "1/1/1929",
+    "Temperature": -0.49,
+    "Country": "USA",
+    "Emissions": 126.018825
+  },
+  {
+    "Year": "1/1/1930",
+    "Temperature": -0.34,
+    "Country": "USA",
+    "Emissions": 121.381006
+  },
+  {
+    "Year": "1/1/1931",
+    "Temperature": -0.03,
+    "Country": "USA",
+    "Emissions": 125.134025
+  },
+  {
+    "Year": "1/1/1932",
+    "Temperature": 0.15,
+    "Country": "USA",
+    "Emissions": 118.845775
+  },
+  {
+    "Year": "1/1/1933",
+    "Temperature": -0.29,
+    "Country": "USA",
+    "Emissions": 96.065768
+  },
+  {
+    "Year": "1/1/1934",
+    "Temperature": -0.3,
+    "Country": "USA",
+    "Emissions": 90.037327
+  },
+  {
+    "Year": "1/1/1935",
+    "Temperature": -0.28,
+    "Country": "USA",
+    "Emissions": 90.699159
+  },
+  {
+    "Year": "1/1/1936",
+    "Temperature": -0.27,
+    "Country": "USA",
+    "Emissions": 104.034345
+  },
+  {
+    "Year": "1/1/1937",
+    "Temperature": -0.18,
+    "Country": "USA",
+    "Emissions": 105.813017
+  },
+  {
+    "Year": "1/1/1938",
+    "Temperature": 0.02,
+    "Country": "USA",
+    "Emissions": 114.410932
+  },
+  {
+    "Year": "1/1/1939",
+    "Temperature": -0.11,
+    "Country": "USA",
+    "Emissions": 126.270164
+  },
+  {
+    "Year": "1/1/1940",
+    "Temperature": 0.01,
+    "Country": "USA",
+    "Emissions": 118.838556
+  },
+  {
+    "Year": "1/1/1941",
+    "Temperature": 0.27,
+    "Country": "USA",
+    "Emissions": 127.768931
+  },
+  {
+    "Year": "1/1/1942",
+    "Temperature": 0.29,
+    "Country": "USA",
+    "Emissions": 143.087566
+  },
+  {
+    "Year": "1/1/1943",
+    "Temperature": -0.03,
+    "Country": "USA",
+    "Emissions": 153.319964
+  },
+  {
+    "Year": "1/1/1944",
+    "Temperature": 0.39,
+    "Country": "USA",
+    "Emissions": 161.184765
+  },
+  {
+    "Year": "1/1/1945",
+    "Temperature": 0.16,
+    "Country": "USA",
+    "Emissions": 168.092849
+  },
+  {
+    "Year": "1/1/1946",
+    "Temperature": 0.24,
+    "Country": "USA",
+    "Emissions": 172.153873
+  },
+  {
+    "Year": "1/1/1947",
+    "Temperature": -0.16,
+    "Country": "USA",
+    "Emissions": 165.15804
+  },
+  {
+    "Year": "1/1/1948",
+    "Temperature": 0.06,
+    "Country": "USA",
+    "Emissions": 176.143301
+  },
+  {
+    "Year": "1/1/1949",
+    "Temperature": 0.12,
+    "Country": "USA",
+    "Emissions": 186.230625
+  },
+  {
+    "Year": "1/1/1950",
+    "Temperature": -0.29,
+    "Country": "USA",
+    "Emissions": 203.040036
+  },
+  {
+    "Year": "1/1/1951",
+    "Temperature": -0.28,
+    "Country": "USA",
+    "Emissions": 187.993776
+  },
+  {
+    "Year": "1/1/1952",
+    "Temperature": 0.13,
+    "Country": "USA",
+    "Emissions": 197.247027
+  },
+  {
+    "Year": "1/1/1953",
+    "Temperature": 0.09,
+    "Country": "USA",
+    "Emissions": 212.580974
+  },
+  {
+    "Year": "1/1/1954",
+    "Temperature": -0.2,
+    "Country": "USA",
+    "Emissions": 211.538884
+  },
+  {
+    "Year": "1/1/1955",
+    "Temperature": 0.14,
+    "Country": "USA",
+    "Emissions": 212.684825
+  },
+  {
+    "Year": "1/1/1956",
+    "Temperature": -0.14,
+    "Country": "USA",
+    "Emissions": 216.099322
+  },
+  {
+    "Year": "1/1/1957",
+    "Temperature": -0.09,
+    "Country": "USA",
+    "Emissions": 227.239179
+  },
+  {
+    "Year": "1/1/1958",
+    "Temperature": 0.32,
+    "Country": "USA",
+    "Emissions": 250.49442
+  },
+  {
+    "Year": "1/1/1959",
+    "Temperature": 0.16,
+    "Country": "USA",
+    "Emissions": 258.151445
+  },
+  {
+    "Year": "1/1/1960",
+    "Temperature": 0.04,
+    "Country": "USA",
+    "Emissions": 267.406829
+  },
+  {
+    "Year": "1/1/1961",
+    "Temperature": 0.13,
+    "Country": "USA",
+    "Emissions": 272.435432
+  },
+  {
+    "Year": "1/1/1962",
+    "Temperature": 0.12,
+    "Country": "USA",
+    "Emissions": 282.705741
+  },
+  {
+    "Year": "1/1/1963",
+    "Temperature": 0.06,
+    "Country": "USA",
+    "Emissions": 287.973207
+  },
+  {
+    "Year": "1/1/1964",
+    "Temperature": 0.01,
+    "Country": "USA",
+    "Emissions": 305.050591
+  },
+  {
+    "Year": "1/1/1965",
+    "Temperature": -0.07,
+    "Country": "USA",
+    "Emissions": 305.39545
+  },
+  {
+    "Year": "1/1/1966",
+    "Temperature": -0.05,
+    "Country": "USA",
+    "Emissions": 346.924432
+  },
+  {
+    "Year": "1/1/1967",
+    "Temperature": -0.09,
+    "Country": "USA",
+    "Emissions": 363.084106
+  },
+  {
+    "Year": "1/1/1968",
+    "Temperature": -0.2,
+    "Country": "USA",
+    "Emissions": 376.535598
+  },
+  {
+    "Year": "1/1/1969",
+    "Temperature": -0.09,
+    "Country": "USA",
+    "Emissions": 411.25777
+  },
+  {
+    "Year": "1/1/1970",
+    "Temperature": 0.14,
+    "Country": "USA",
+    "Emissions": 438.906496
+  },
+  {
+    "Year": "1/1/1971",
+    "Temperature": 0.01,
+    "Country": "USA",
+    "Emissions": 454.108103
+  },
+  {
+    "Year": "1/1/1972",
+    "Temperature": -0.24,
+    "Country": "USA",
+    "Emissions": 508.853646
+  },
+  {
+    "Year": "1/1/1973",
+    "Temperature": 0.28,
+    "Country": "USA",
+    "Emissions": 538.26871
+  },
+  {
+    "Year": "1/1/1974",
+    "Temperature": -0.19,
+    "Country": "USA",
+    "Emissions": 576.829464
+  },
+  {
+    "Year": "1/1/1975",
+    "Temperature": 0.11,
+    "Country": "USA",
+    "Emissions": 598.380117
+  },
+  {
+    "Year": "1/1/1976",
+    "Temperature": -0.02,
+    "Country": "USA",
+    "Emissions": 617.655117
+  },
+  {
+    "Year": "1/1/1977",
+    "Temperature": 0.13,
+    "Country": "USA",
+    "Emissions": 640.388771
+  },
+  {
+    "Year": "1/1/1978",
+    "Temperature": 0.16,
+    "Country": "USA",
+    "Emissions": 668.034542
+  },
+  {
+    "Year": "1/1/1979",
+    "Temperature": 0.15,
+    "Country": "USA",
+    "Emissions": 691.045261
+  },
+  {
+    "Year": "1/1/1980",
+    "Temperature": 0.33,
+    "Country": "USA",
+    "Emissions": 726.741928
+  },
+  {
+    "Year": "1/1/1981",
+    "Temperature": 0.51,
+    "Country": "USA",
+    "Emissions": 774.51017
+  },
+  {
+    "Year": "1/1/1982",
+    "Temperature": 0.14,
+    "Country": "USA",
+    "Emissions": 803.032431
+  },
+  {
+    "Year": "1/1/1983",
+    "Temperature": 0.53,
+    "Country": "USA",
+    "Emissions": 799.84589
+  },
+  {
+    "Year": "1/1/1984",
+    "Temperature": 0.3,
+    "Country": "USA",
+    "Emissions": 806.02606
+  },
+  {
+    "Year": "1/1/1985",
+    "Temperature": 0.22,
+    "Country": "USA",
+    "Emissions": 768.016221
+  },
+  {
+    "Year": "1/1/1986",
+    "Temperature": 0.31,
+    "Country": "USA",
+    "Emissions": 786.125655
+  },
+  {
+    "Year": "1/1/1987",
+    "Temperature": 0.32,
+    "Country": "USA",
+    "Emissions": 797.17943
+  },
+  {
+    "Year": "1/1/1988",
+    "Temperature": 0.56,
+    "Country": "USA",
+    "Emissions": 782.124858
+  },
+  {
+    "Year": "1/1/1989",
+    "Temperature": 0.17,
+    "Country": "USA",
+    "Emissions": 826.173319
+  },
+  {
+    "Year": "1/1/1990",
+    "Temperature": 0.36,
+    "Country": "USA",
+    "Emissions": 850.818529
+  },
+  {
+    "Year": "1/1/1991",
+    "Temperature": 0.43,
+    "Country": "USA",
+    "Emissions": 916.156033
+  },
+  {
+    "Year": "1/1/1992",
+    "Temperature": 0.46,
+    "Country": "USA",
+    "Emissions": 870.265834
+  },
+  {
+    "Year": "1/1/1993",
+    "Temperature": 0.36,
+    "Country": "USA",
+    "Emissions": 872.630618
+  },
+  {
+    "Year": "1/1/1994",
+    "Temperature": 0.27,
+    "Country": "USA",
+    "Emissions": 887.569896
+  },
+  {
+    "Year": "1/1/1995",
+    "Temperature": 0.56,
+    "Country": "USA",
+    "Emissions": 892.06148
+  },
+  {
+    "Year": "1/1/1996",
+    "Temperature": 0.25,
+    "Country": "USA",
+    "Emissions": 925.713497
+  },
+  {
+    "Year": "1/1/1997",
+    "Temperature": 0.34,
+    "Country": "USA",
+    "Emissions": 928.043898
+  },
+  {
+    "Year": "1/1/1998",
+    "Temperature": 0.6,
+    "Country": "USA",
+    "Emissions": 965.433511
+  },
+  {
+    "Year": "1/1/1999",
+    "Temperature": 0.51,
+    "Country": "USA",
+    "Emissions": 1004.002979
+  },
+  {
+    "Year": "1/1/2000",
+    "Temperature": 0.34,
+    "Country": "USA",
+    "Emissions": 1035.51832
+  },
+  {
+    "Year": "1/1/2001",
+    "Temperature": 0.47,
+    "Country": "USA",
+    "Emissions": 1058.106471
+  },
+  {
+    "Year": "1/1/2002",
+    "Temperature": 0.71,
+    "Country": "USA",
+    "Emissions": 1094.148992
+  },
+  {
+    "Year": "1/1/2003",
+    "Temperature": 0.72,
+    "Country": "USA",
+    "Emissions": 1106.912469
+  },
+  {
+    "Year": "1/1/2004",
+    "Temperature": 0.61,
+    "Country": "USA",
+    "Emissions": 1119.058708
+  },
+  {
+    "Year": "1/1/2005",
+    "Temperature": 0.65,
+    "Country": "USA",
+    "Emissions": 1166.995057
+  },
+  {
+    "Year": "1/1/2006",
+    "Temperature": 0.51,
+    "Country": "USA",
+    "Emissions": 1164.244928
+  },
+  {
+    "Year": "1/1/2007",
+    "Temperature": 0.92,
+    "Country": "USA",
+    "Emissions": 1188.634232
+  },
+  {
+    "Year": "1/1/2008",
+    "Temperature": 0.27,
+    "Country": "USA",
+    "Emissions": 1204.090339
+  },
+  {
+    "Year": "1/1/2009",
+    "Temperature": 0.6,
+    "Country": "USA",
+    "Emissions": 1236.368863
+  },
+  {
+    "Year": "1/1/2010",
+    "Temperature": 0.73,
+    "Country": "USA",
+    "Emissions": 1230.791149
+  },
+  {
+    "Year": "1/1/2011",
+    "Temperature": 0.47,
+    "Country": "USA",
+    "Emissions": 1177.828943
+  },
+  {
+    "Year": "1/1/2012",
+    "Temperature": 0.44,
+    "Country": "USA",
+    "Emissions": 1188.15135
+  },
+  {
+    "Year": "1/1/2013",
+    "Temperature": 0.62,
+    "Country": "USA",
+    "Emissions": 1217.475977
+  },
+  {
+    "Year": "1/1/2014",
+    "Temperature": 0.7,
+    "Country": "USA",
+    "Emissions": 1230.746716
+  },
+  {
+    "Year": "1/1/2015",
+    "Temperature": 0.83,
+    "Country": "USA",
+    "Emissions": 1232.617515
+  },
+  {
+    "Year": "1/1/2016",
+    "Temperature": 1.12,
+    "Country": "USA",
+    "Emissions": 1224.799118
+  },
+  {
+    "Year": "1/1/2017",
+    "Temperature": 0.98,
+    "Country": "USA",
+    "Emissions": 1231.818487
+  },
+  {
+    "Year": "1/1/2018",
+    "Temperature": 0.76,
+    "Country": "USA",
+    "Emissions": 1218.354582
+  },
+  {
+    "Year": "1/1/2019",
+    "Temperature": 0.94,
+    "Country": "USA",
+    "Emissions": 1202.527013
+  },
+  {
+    "Year": "1/1/2020",
+    "Temperature": 1.15,
+    "Country": "USA",
+    "Emissions": 1209.403631
+  },
+  {
+    "Year": "1/1/2021",
+    "Temperature": 0.8,
+    "Country": "USA",
+    "Emissions": 1191.282678
+  },
+  {
+    "Year": "01/01/1880",
+    "Temperature": -0.06,
+    "Country": "World",
+    "Emissions": 853.707835
+  },
+  {
+    "Year": "01/01/1881",
+    "Temperature": -0.09,
+    "Country": "World",
+    "Emissions": 882.40807
+  },
+  {
+    "Year": "01/01/1882",
+    "Temperature": 0.08,
+    "Country": "World",
+    "Emissions": 931.925349
+  },
+  {
+    "Year": "01/01/1883",
+    "Temperature": -0.28,
+    "Country": "World",
+    "Emissions": 991.036392
+  },
+  {
+    "Year": "01/01/1884",
+    "Temperature": -0.24,
+    "Country": "World",
+    "Emissions": 1002.178535
+  },
+  {
+    "Year": "01/01/1885",
+    "Temperature": -0.45,
+    "Country": "World",
+    "Emissions": 1009.675266
+  },
+  {
+    "Year": "01/01/1886",
+    "Temperature": -0.18,
+    "Country": "World",
+    "Emissions": 1025.479625
+  },
+  {
+    "Year": "01/01/1887",
+    "Temperature": -0.53,
+    "Country": "World",
+    "Emissions": 1076.762379
+  },
+  {
+    "Year": "01/01/1888",
+    "Temperature": -0.33,
+    "Country": "World",
+    "Emissions": 1192.276903
+  },
+  {
+    "Year": "01/01/1889",
+    "Temperature": -0.03,
+    "Country": "World",
+    "Emissions": 1191.805414
+  },
+  {
+    "Year": "01/01/1890",
+    "Temperature": -0.34,
+    "Country": "World",
+    "Emissions": 1298.464659
+  },
+  {
+    "Year": "01/01/1891",
+    "Temperature": -0.4,
+    "Country": "World",
+    "Emissions": 1358.880878
+  },
+  {
+    "Year": "01/01/1892",
+    "Temperature": -0.25,
+    "Country": "World",
+    "Emissions": 1370.084623
+  },
+  {
+    "Year": "01/01/1893",
+    "Temperature": -0.74,
+    "Country": "World",
+    "Emissions": 1353.676428
+  },
+  {
+    "Year": "01/01/1894",
+    "Temperature": -0.42,
+    "Country": "World",
+    "Emissions": 1400.866167
+  },
+  {
+    "Year": "01/01/1895",
+    "Temperature": -0.44,
+    "Country": "World",
+    "Emissions": 1485.283456
+  },
+  {
+    "Year": "01/01/1896",
+    "Temperature": -0.15,
+    "Country": "World",
+    "Emissions": 1533.713302
+  },
+  {
+    "Year": "01/01/1897",
+    "Temperature": -0.13,
+    "Country": "World",
+    "Emissions": 1606.312994
+  },
+  {
+    "Year": "01/01/1898",
+    "Temperature": -0.01,
+    "Country": "World",
+    "Emissions": 1694.279862
+  },
+  {
+    "Year": "01/01/1899",
+    "Temperature": -0.14,
+    "Country": "World",
+    "Emissions": 1850.90877
+  },
+  {
+    "Year": "1/1/1900",
+    "Temperature": -0.35,
+    "Country": "World",
+    "Emissions": 1953.614215
+  },
+  {
+    "Year": "1/1/1901",
+    "Temperature": -0.13,
+    "Country": "World",
+    "Emissions": 2018.420559
+  },
+  {
+    "Year": "1/1/1902",
+    "Temperature": -0.1,
+    "Country": "World",
+    "Emissions": 2069.946153
+  },
+  {
+    "Year": "1/1/1903",
+    "Temperature": -0.24,
+    "Country": "World",
+    "Emissions": 2258.613447
+  },
+  {
+    "Year": "1/1/1904",
+    "Temperature": -0.62,
+    "Country": "World",
+    "Emissions": 2282.759337
+  },
+  {
+    "Year": "1/1/1905",
+    "Temperature": -0.35,
+    "Country": "World",
+    "Emissions": 2431.144771
+  },
+  {
+    "Year": "1/1/1906",
+    "Temperature": -0.14,
+    "Country": "World",
+    "Emissions": 2554.215361
+  },
+  {
+    "Year": "1/1/1907",
+    "Temperature": -0.37,
+    "Country": "World",
+    "Emissions": 2887.83285
+  },
+  {
+    "Year": "1/1/1908",
+    "Temperature": -0.38,
+    "Country": "World",
+    "Emissions": 2779.287824
+  },
+  {
+    "Year": "1/1/1909",
+    "Temperature": -0.58,
+    "Country": "World",
+    "Emissions": 2890.65356
+  },
+  {
+    "Year": "1/1/1910",
+    "Temperature": -0.36,
+    "Country": "World",
+    "Emissions": 3032.155998
+  },
+  {
+    "Year": "1/1/1911",
+    "Temperature": -0.55,
+    "Country": "World",
+    "Emissions": 3087.264469
+  },
+  {
+    "Year": "1/1/1912",
+    "Temperature": -0.28,
+    "Country": "World",
+    "Emissions": 3233.403021
+  },
+  {
+    "Year": "1/1/1913",
+    "Temperature": -0.35,
+    "Country": "World",
+    "Emissions": 3498.265954
+  },
+  {
+    "Year": "1/1/1914",
+    "Temperature": 0.11,
+    "Country": "World",
+    "Emissions": 3173.995825
+  },
+  {
+    "Year": "1/1/1915",
+    "Temperature": -0.15,
+    "Country": "World",
+    "Emissions": 3130.388638
+  },
+  {
+    "Year": "1/1/1916",
+    "Temperature": -0.13,
+    "Country": "World",
+    "Emissions": 3378.662488
+  },
+  {
+    "Year": "1/1/1917",
+    "Temperature": -0.53,
+    "Country": "World",
+    "Emissions": 3533.55565
+  },
+  {
+    "Year": "1/1/1918",
+    "Temperature": -0.32,
+    "Country": "World",
+    "Emissions": 3483.434724
+  },
+  {
+    "Year": "1/1/1919",
+    "Temperature": -0.23,
+    "Country": "World",
+    "Emissions": 3019.921454
+  },
+  {
+    "Year": "1/1/1920",
+    "Temperature": -0.2,
+    "Country": "World",
+    "Emissions": 3513.394521
+  },
+  {
+    "Year": "1/1/1921",
+    "Temperature": -0.07,
+    "Country": "World",
+    "Emissions": 3083.122765
+  },
+  {
+    "Year": "1/1/1922",
+    "Temperature": -0.3,
+    "Country": "World",
+    "Emissions": 3234.231434
+  },
+  {
+    "Year": "1/1/1923",
+    "Temperature": -0.24,
+    "Country": "World",
+    "Emissions": 3670.605469
+  },
+  {
+    "Year": "1/1/1924",
+    "Temperature": -0.22,
+    "Country": "World",
+    "Emissions": 3682.986363
+  },
+  {
+    "Year": "1/1/1925",
+    "Temperature": -0.4,
+    "Country": "World",
+    "Emissions": 3709.803778
+  },
+  {
+    "Year": "1/1/1926",
+    "Temperature": 0.13,
+    "Country": "World",
+    "Emissions": 3642.199735
+  },
+  {
+    "Year": "1/1/1927",
+    "Temperature": -0.23,
+    "Country": "World",
+    "Emissions": 3978.3737
+  },
+  {
+    "Year": "1/1/1928",
+    "Temperature": -0.08,
+    "Country": "World",
+    "Emissions": 3959.653143
+  },
+  {
+    "Year": "1/1/1929",
+    "Temperature": -0.49,
+    "Country": "World",
+    "Emissions": 4252.189759
+  },
+  {
+    "Year": "1/1/1930",
+    "Temperature": -0.34,
+    "Country": "World",
+    "Emissions": 3919.398903
+  },
+  {
+    "Year": "1/1/1931",
+    "Temperature": -0.03,
+    "Country": "World",
+    "Emissions": 3502.982456
+  },
+  {
+    "Year": "1/1/1932",
+    "Temperature": 0.15,
+    "Country": "World",
+    "Emissions": 3157.845139
+  },
+  {
+    "Year": "1/1/1933",
+    "Temperature": -0.29,
+    "Country": "World",
+    "Emissions": 3324.971535
+  },
+  {
+    "Year": "1/1/1934",
+    "Temperature": -0.3,
+    "Country": "World",
+    "Emissions": 3616.315386
+  },
+  {
+    "Year": "1/1/1935",
+    "Temperature": -0.28,
+    "Country": "World",
+    "Emissions": 3794.456537
+  },
+  {
+    "Year": "1/1/1936",
+    "Temperature": -0.27,
+    "Country": "World",
+    "Emissions": 4168.554366
+  },
+  {
+    "Year": "1/1/1937",
+    "Temperature": -0.18,
+    "Country": "World",
+    "Emissions": 4456.65482
+  },
+  {
+    "Year": "1/1/1938",
+    "Temperature": 0.02,
+    "Country": "World",
+    "Emissions": 4193.545888
+  },
+  {
+    "Year": "1/1/1939",
+    "Temperature": -0.11,
+    "Country": "World",
+    "Emissions": 4435.792518
+  },
+  {
+    "Year": "1/1/1940",
+    "Temperature": 0.01,
+    "Country": "World",
+    "Emissions": 4847.084264
+  },
+  {
+    "Year": "1/1/1941",
+    "Temperature": 0.27,
+    "Country": "World",
+    "Emissions": 4955.476469
+  },
+  {
+    "Year": "1/1/1942",
+    "Temperature": 0.29,
+    "Country": "World",
+    "Emissions": 4935.659098
+  },
+  {
+    "Year": "1/1/1943",
+    "Temperature": -0.03,
+    "Country": "World",
+    "Emissions": 5018.864796
+  },
+  {
+    "Year": "1/1/1944",
+    "Temperature": 0.39,
+    "Country": "World",
+    "Emissions": 5101.039826
+  },
+  {
+    "Year": "1/1/1945",
+    "Temperature": 0.16,
+    "Country": "World",
+    "Emissions": 4240.82889
+  },
+  {
+    "Year": "1/1/1946",
+    "Temperature": 0.24,
+    "Country": "World",
+    "Emissions": 4629.673019
+  },
+  {
+    "Year": "1/1/1947",
+    "Temperature": -0.16,
+    "Country": "World",
+    "Emissions": 5125.894209
+  },
+  {
+    "Year": "1/1/1948",
+    "Temperature": 0.06,
+    "Country": "World",
+    "Emissions": 5396.503436
+  },
+  {
+    "Year": "1/1/1949",
+    "Temperature": 0.12,
+    "Country": "World",
+    "Emissions": 5239.276402
+  },
+  {
+    "Year": "1/1/1950",
+    "Temperature": -0.29,
+    "Country": "World",
+    "Emissions": 5998.350483
+  },
+  {
+    "Year": "1/1/1951",
+    "Temperature": -0.28,
+    "Country": "World",
+    "Emissions": 6373.784977
+  },
+  {
+    "Year": "1/1/1952",
+    "Temperature": 0.13,
+    "Country": "World",
+    "Emissions": 6460.163088
+  },
+  {
+    "Year": "1/1/1953",
+    "Temperature": 0.09,
+    "Country": "World",
+    "Emissions": 6641.784991
+  },
+  {
+    "Year": "1/1/1954",
+    "Temperature": -0.2,
+    "Country": "World",
+    "Emissions": 6784.943963
+  },
+  {
+    "Year": "1/1/1955",
+    "Temperature": 0.14,
+    "Country": "World",
+    "Emissions": 7437.038185
+  },
+  {
+    "Year": "1/1/1956",
+    "Temperature": -0.14,
+    "Country": "World",
+    "Emissions": 7917.910418
+  },
+  {
+    "Year": "1/1/1957",
+    "Temperature": -0.09,
+    "Country": "World",
+    "Emissions": 8179.339626
+  },
+  {
+    "Year": "1/1/1958",
+    "Temperature": 0.32,
+    "Country": "World",
+    "Emissions": 8412.113102
+  },
+  {
+    "Year": "1/1/1959",
+    "Temperature": 0.16,
+    "Country": "World",
+    "Emissions": 8848.508658
+  },
+  {
+    "Year": "1/1/1960",
+    "Temperature": 0.04,
+    "Country": "World",
+    "Emissions": 9334.894235
+  },
+  {
+    "Year": "1/1/1961",
+    "Temperature": 0.13,
+    "Country": "World",
+    "Emissions": 9356.003209
+  },
+  {
+    "Year": "1/1/1962",
+    "Temperature": 0.12,
+    "Country": "World",
+    "Emissions": 9687.509136
+  },
+  {
+    "Year": "1/1/1963",
+    "Temperature": 0.06,
+    "Country": "World",
+    "Emissions": 10236.03084
+  },
+  {
+    "Year": "1/1/1964",
+    "Temperature": 0.01,
+    "Country": "World",
+    "Emissions": 10769.609
+  },
+  {
+    "Year": "1/1/1965",
+    "Temperature": -0.07,
+    "Country": "World",
+    "Emissions": 11269.28938
+  },
+  {
+    "Year": "1/1/1966",
+    "Temperature": -0.05,
+    "Country": "World",
+    "Emissions": 11793.83789
+  },
+  {
+    "Year": "1/1/1967",
+    "Temperature": -0.09,
+    "Country": "World",
+    "Emissions": 12171.49656
+  },
+  {
+    "Year": "1/1/1968",
+    "Temperature": -0.2,
+    "Country": "World",
+    "Emissions": 12835.99584
+  },
+  {
+    "Year": "1/1/1969",
+    "Temperature": -0.09,
+    "Country": "World",
+    "Emissions": 13691.84209
+  },
+  {
+    "Year": "1/1/1970",
+    "Temperature": 0.14,
+    "Country": "World",
+    "Emissions": 14826.86256
+  },
+  {
+    "Year": "1/1/1971",
+    "Temperature": 0.01,
+    "Country": "World",
+    "Emissions": 15425.83127
+  },
+  {
+    "Year": "1/1/1972",
+    "Temperature": -0.24,
+    "Country": "World",
+    "Emissions": 16142.60518
+  },
+  {
+    "Year": "1/1/1973",
+    "Temperature": 0.28,
+    "Country": "World",
+    "Emissions": 17000.71304
+  },
+  {
+    "Year": "1/1/1974",
+    "Temperature": -0.19,
+    "Country": "World",
+    "Emissions": 16925.87153
+  },
+  {
+    "Year": "1/1/1975",
+    "Temperature": 0.11,
+    "Country": "World",
+    "Emissions": 16902.97254
+  },
+  {
+    "Year": "1/1/1976",
+    "Temperature": -0.02,
+    "Country": "World",
+    "Emissions": 17799.76025
+  },
+  {
+    "Year": "1/1/1977",
+    "Temperature": 0.13,
+    "Country": "World",
+    "Emissions": 18287.93609
+  },
+  {
+    "Year": "1/1/1978",
+    "Temperature": 0.16,
+    "Country": "World",
+    "Emissions": 18958.83194
+  },
+  {
+    "Year": "1/1/1979",
+    "Temperature": 0.15,
+    "Country": "World",
+    "Emissions": 19464.23814
+  },
+  {
+    "Year": "1/1/1980",
+    "Temperature": 0.33,
+    "Country": "World",
+    "Emissions": 19369.45179
+  },
+  {
+    "Year": "1/1/1981",
+    "Temperature": 0.51,
+    "Country": "World",
+    "Emissions": 18841.36658
+  },
+  {
+    "Year": "1/1/1982",
+    "Temperature": 0.14,
+    "Country": "World",
+    "Emissions": 18700.96497
+  },
+  {
+    "Year": "1/1/1983",
+    "Temperature": 0.53,
+    "Country": "World",
+    "Emissions": 18876.27456
+  },
+  {
+    "Year": "1/1/1984",
+    "Temperature": 0.3,
+    "Country": "World",
+    "Emissions": 19426.23405
+  },
+  {
+    "Year": "1/1/1985",
+    "Temperature": 0.22,
+    "Country": "World",
+    "Emissions": 20116.82422
+  },
+  {
+    "Year": "1/1/1986",
+    "Temperature": 0.31,
+    "Country": "World",
+    "Emissions": 20401.6947
+  },
+  {
+    "Year": "1/1/1987",
+    "Temperature": 0.32,
+    "Country": "World",
+    "Emissions": 21062.70396
+  },
+  {
+    "Year": "1/1/1988",
+    "Temperature": 0.56,
+    "Country": "World",
+    "Emissions": 21865.97075
+  },
+  {
+    "Year": "1/1/1989",
+    "Temperature": 0.17,
+    "Country": "World",
+    "Emissions": 22193.36178
+  },
+  {
+    "Year": "1/1/1990",
+    "Temperature": 0.36,
+    "Country": "World",
+    "Emissions": 22697.61192
+  },
+  {
+    "Year": "1/1/1991",
+    "Temperature": 0.43,
+    "Country": "World",
+    "Emissions": 23169.52933
+  },
+  {
+    "Year": "1/1/1992",
+    "Temperature": 0.46,
+    "Country": "World",
+    "Emissions": 22444.95133
+  },
+  {
+    "Year": "1/1/1993",
+    "Temperature": 0.36,
+    "Country": "World",
+    "Emissions": 22682.60321
+  },
+  {
+    "Year": "1/1/1994",
+    "Temperature": 0.27,
+    "Country": "World",
+    "Emissions": 22843.78772
+  },
+  {
+    "Year": "1/1/1995",
+    "Temperature": 0.56,
+    "Country": "World",
+    "Emissions": 23332.15907
+  },
+  {
+    "Year": "1/1/1996",
+    "Temperature": 0.25,
+    "Country": "World",
+    "Emissions": 24050.84364
+  },
+  {
+    "Year": "1/1/1997",
+    "Temperature": 0.34,
+    "Country": "World",
+    "Emissions": 24191.14815
+  },
+  {
+    "Year": "1/1/1998",
+    "Temperature": 0.6,
+    "Country": "World",
+    "Emissions": 24112.11881
+  },
+  {
+    "Year": "1/1/1999",
+    "Temperature": 0.51,
+    "Country": "World",
+    "Emissions": 24431.05076
+  },
+  {
+    "Year": "1/1/2000",
+    "Temperature": 0.34,
+    "Country": "World",
+    "Emissions": 25119.04231
+  },
+  {
+    "Year": "1/1/2001",
+    "Temperature": 0.47,
+    "Country": "World",
+    "Emissions": 25332.20252
+  },
+  {
+    "Year": "1/1/2002",
+    "Temperature": 0.71,
+    "Country": "World",
+    "Emissions": 25911.18628
+  },
+  {
+    "Year": "1/1/2003",
+    "Temperature": 0.72,
+    "Country": "World",
+    "Emissions": 27176.18398
+  },
+  {
+    "Year": "1/1/2004",
+    "Temperature": 0.61,
+    "Country": "World",
+    "Emissions": 28470.45125
+  },
+  {
+    "Year": "1/1/2005",
+    "Temperature": 0.65,
+    "Country": "World",
+    "Emissions": 29410.88934
+  },
+  {
+    "Year": "1/1/2006",
+    "Temperature": 0.51,
+    "Country": "World",
+    "Emissions": 30374.55399
+  },
+  {
+    "Year": "1/1/2007",
+    "Temperature": 0.92,
+    "Country": "World",
+    "Emissions": 31293.8623
+  },
+  {
+    "Year": "1/1/2008",
+    "Temperature": 0.27,
+    "Country": "World",
+    "Emissions": 31946.0339
+  },
+  {
+    "Year": "1/1/2009",
+    "Temperature": 0.6,
+    "Country": "World",
+    "Emissions": 31464.20043
+  },
+  {
+    "Year": "1/1/2010",
+    "Temperature": 0.73,
+    "Country": "World",
+    "Emissions": 33131.91107
+  },
+  {
+    "Year": "1/1/2011",
+    "Temperature": 0.47,
+    "Country": "World",
+    "Emissions": 34209.58257
+  },
+  {
+    "Year": "1/1/2012",
+    "Temperature": 0.44,
+    "Country": "World",
+    "Emissions": 34760.00814
+  },
+  {
+    "Year": "1/1/2013",
+    "Temperature": 0.62,
+    "Country": "World",
+    "Emissions": 34987.26355
+  },
+  {
+    "Year": "1/1/2014",
+    "Temperature": 0.7,
+    "Country": "World",
+    "Emissions": 35244.86811
+  },
+  {
+    "Year": "1/1/2015",
+    "Temperature": 0.83,
+    "Country": "World",
+    "Emissions": 35209.44656
+  },
+  {
+    "Year": "1/1/2016",
+    "Temperature": 1.12,
+    "Country": "World",
+    "Emissions": 35220.41242
+  },
+  {
+    "Year": "1/1/2017",
+    "Temperature": 0.98,
+    "Country": "World",
+    "Emissions": 35696.34889
+  },
+  {
+    "Year": "1/1/2018",
+    "Temperature": 0.76,
+    "Country": "World",
+    "Emissions": 36419.71171
+  },
+  {
+    "Year": "1/1/2019",
+    "Temperature": 0.94,
+    "Country": "World",
+    "Emissions": 36441.38758
+  },
+  {
+    "Year": "1/1/2020",
+    "Temperature": 1.15,
+    "Country": "World",
+    "Emissions": 36441.38758
+  },
+  {
+    "Year": "1/1/2021",
+    "Temperature": 0.8,
+    "Country": "World",
+    "Emissions": 36441.38758
+  },
+  {
+    "Year": "01/01/1880",
+    "Temperature": -0.06,
+    "Country": "EU",
+    "Emissions": 625.916746
+  },
+  {
+    "Year": "01/01/1881",
+    "Temperature": -0.09,
+    "Country": "EU",
+    "Emissions": 642.377528
+  },
+  {
+    "Year": "01/01/1882",
+    "Temperature": 0.08,
+    "Country": "EU",
+    "Emissions": 663.847902
+  },
+  {
+    "Year": "01/01/1883",
+    "Temperature": -0.28,
+    "Country": "EU",
+    "Emissions": 700.29794
+  },
+  {
+    "Year": "01/01/1884",
+    "Temperature": -0.24,
+    "Country": "EU",
+    "Emissions": 695.357615
+  },
+  {
+    "Year": "01/01/1885",
+    "Temperature": -0.45,
+    "Country": "EU",
+    "Emissions": 696.186116
+  },
+  {
+    "Year": "01/01/1886",
+    "Temperature": -0.18,
+    "Country": "EU",
+    "Emissions": 695.108043
+  },
+  {
+    "Year": "01/01/1887",
+    "Temperature": -0.53,
+    "Country": "EU",
+    "Emissions": 721.306188
+  },
+  {
+    "Year": "01/01/1888",
+    "Temperature": -0.33,
+    "Country": "EU",
+    "Emissions": 764.437339
+  },
+  {
+    "Year": "01/01/1889",
+    "Temperature": -0.03,
+    "Country": "EU",
+    "Emissions": 799.471944
+  },
+  {
+    "Year": "01/01/1890",
+    "Temperature": -0.34,
+    "Country": "EU",
+    "Emissions": 834.541257
+  },
+  {
+    "Year": "01/01/1891",
+    "Temperature": -0.4,
+    "Country": "EU",
+    "Emissions": 861.661871
+  },
+  {
+    "Year": "01/01/1892",
+    "Temperature": -0.25,
+    "Country": "EU",
+    "Emissions": 846.480282
+  },
+  {
+    "Year": "01/01/1893",
+    "Temperature": -0.74,
+    "Country": "EU",
+    "Emissions": 817.956741
+  },
+  {
+    "Year": "01/01/1894",
+    "Temperature": -0.42,
+    "Country": "EU",
+    "Emissions": 889.132107
+  },
+  {
+    "Year": "01/01/1895",
+    "Temperature": -0.44,
+    "Country": "EU",
+    "Emissions": 908.651697
+  },
+  {
+    "Year": "01/01/1896",
+    "Temperature": -0.15,
+    "Country": "EU",
+    "Emissions": 951.067
+  },
+  {
+    "Year": "01/01/1897",
+    "Temperature": -0.13,
+    "Country": "EU",
+    "Emissions": 994.293723
+  },
+  {
+    "Year": "01/01/1898",
+    "Temperature": -0.01,
+    "Country": "EU",
+    "Emissions": 1022.101564
+  },
+  {
+    "Year": "01/01/1899",
+    "Temperature": -0.14,
+    "Country": "EU",
+    "Emissions": 1083.578612
+  },
+  {
+    "Year": "1/1/1900",
+    "Temperature": -0.35,
+    "Country": "EU",
+    "Emissions": 1131.530687
+  },
+  {
+    "Year": "1/1/1901",
+    "Temperature": -0.13,
+    "Country": "EU",
+    "Emissions": 1120.000145
+  },
+  {
+    "Year": "1/1/1902",
+    "Temperature": -0.1,
+    "Country": "EU",
+    "Emissions": 1122.739151
+  },
+  {
+    "Year": "1/1/1903",
+    "Temperature": -0.24,
+    "Country": "EU",
+    "Emissions": 1172.718024
+  },
+  {
+    "Year": "1/1/1904",
+    "Temperature": -0.62,
+    "Country": "EU",
+    "Emissions": 1188.765797
+  },
+  {
+    "Year": "1/1/1905",
+    "Temperature": -0.35,
+    "Country": "EU",
+    "Emissions": 1233.092956
+  },
+  {
+    "Year": "1/1/1906",
+    "Temperature": -0.14,
+    "Country": "EU",
+    "Emissions": 1265.307436
+  },
+  {
+    "Year": "1/1/1907",
+    "Temperature": -0.37,
+    "Country": "EU",
+    "Emissions": 1400.624218
+  },
+  {
+    "Year": "1/1/1908",
+    "Temperature": -0.38,
+    "Country": "EU",
+    "Emissions": 1423.546834
+  },
+  {
+    "Year": "1/1/1909",
+    "Temperature": -0.58,
+    "Country": "EU",
+    "Emissions": 1420.627701
+  },
+  {
+    "Year": "1/1/1910",
+    "Temperature": -0.36,
+    "Country": "EU",
+    "Emissions": 1442.129369
+  },
+  {
+    "Year": "1/1/1911",
+    "Temperature": -0.55,
+    "Country": "EU",
+    "Emissions": 1473.577613
+  },
+  {
+    "Year": "1/1/1912",
+    "Temperature": -0.28,
+    "Country": "EU",
+    "Emissions": 1519.732246
+  },
+  {
+    "Year": "1/1/1913",
+    "Temperature": -0.35,
+    "Country": "EU",
+    "Emissions": 1643.897476
+  },
+  {
+    "Year": "1/1/1914",
+    "Temperature": 0.11,
+    "Country": "EU",
+    "Emissions": 1463.62856
+  },
+  {
+    "Year": "1/1/1915",
+    "Temperature": -0.15,
+    "Country": "EU",
+    "Emissions": 1389.025895
+  },
+  {
+    "Year": "1/1/1916",
+    "Temperature": -0.13,
+    "Country": "EU",
+    "Emissions": 1452.649895
+  },
+  {
+    "Year": "1/1/1917",
+    "Temperature": -0.53,
+    "Country": "EU",
+    "Emissions": 1439.005224
+  },
+  {
+    "Year": "1/1/1918",
+    "Temperature": -0.32,
+    "Country": "EU",
+    "Emissions": 1350.095068
+  },
+  {
+    "Year": "1/1/1919",
+    "Temperature": -0.23,
+    "Country": "EU",
+    "Emissions": 1142.900763
+  },
+  {
+    "Year": "1/1/1920",
+    "Temperature": -0.2,
+    "Country": "EU",
+    "Emissions": 1331.28052
+  },
+  {
+    "Year": "1/1/1921",
+    "Temperature": -0.07,
+    "Country": "EU",
+    "Emissions": 1213.750259
+  },
+  {
+    "Year": "1/1/1922",
+    "Temperature": -0.3,
+    "Country": "EU",
+    "Emissions": 1346.084474
+  },
+  {
+    "Year": "1/1/1923",
+    "Temperature": -0.24,
+    "Country": "EU",
+    "Emissions": 1278.031723
+  },
+  {
+    "Year": "1/1/1924",
+    "Temperature": -0.22,
+    "Country": "EU",
+    "Emissions": 1475.874064
+  },
+  {
+    "Year": "1/1/1925",
+    "Temperature": -0.4,
+    "Country": "EU",
+    "Emissions": 1461.092622
+  },
+  {
+    "Year": "1/1/1926",
+    "Temperature": 0.13,
+    "Country": "EU",
+    "Emissions": 1223.890154
+  },
+  {
+    "Year": "1/1/1927",
+    "Temperature": -0.23,
+    "Country": "EU",
+    "Emissions": 1565.453002
+  },
+  {
+    "Year": "1/1/1928",
+    "Temperature": -0.08,
+    "Country": "EU",
+    "Emissions": 1562.178654
+  },
+  {
+    "Year": "1/1/1929",
+    "Temperature": -0.49,
+    "Country": "EU",
+    "Emissions": 1695.571029
+  },
+  {
+    "Year": "1/1/1930",
+    "Temperature": -0.34,
+    "Country": "EU",
+    "Emissions": 1563.34358
+  },
+  {
+    "Year": "1/1/1931",
+    "Temperature": -0.03,
+    "Country": "EU",
+    "Emissions": 1422.700192
+  },
+  {
+    "Year": "1/1/1932",
+    "Temperature": 0.15,
+    "Country": "EU",
+    "Emissions": 1288.913465
+  },
+  {
+    "Year": "1/1/1933",
+    "Temperature": -0.29,
+    "Country": "EU",
+    "Emissions": 1312.761832
+  },
+  {
+    "Year": "1/1/1934",
+    "Temperature": -0.3,
+    "Country": "EU",
+    "Emissions": 1415.411938
+  },
+  {
+    "Year": "1/1/1935",
+    "Temperature": -0.28,
+    "Country": "EU",
+    "Emissions": 1467.650934
+  },
+  {
+    "Year": "1/1/1936",
+    "Temperature": -0.27,
+    "Country": "EU",
+    "Emissions": 1536.026718
+  },
+  {
+    "Year": "1/1/1937",
+    "Temperature": -0.18,
+    "Country": "EU",
+    "Emissions": 1686.357014
+  },
+  {
+    "Year": "1/1/1938",
+    "Temperature": 0.02,
+    "Country": "EU",
+    "Emissions": 1679.539915
+  },
+  {
+    "Year": "1/1/1939",
+    "Temperature": -0.11,
+    "Country": "EU",
+    "Emissions": 1719.740084
+  },
+  {
+    "Year": "1/1/1940",
+    "Temperature": 0.01,
+    "Country": "EU",
+    "Emissions": 1793.245866
+  },
+  {
+    "Year": "1/1/1941",
+    "Temperature": 0.27,
+    "Country": "EU",
+    "Emissions": 1769.033596
+  },
+  {
+    "Year": "1/1/1942",
+    "Temperature": 0.29,
+    "Country": "EU",
+    "Emissions": 1788.474287
+  },
+  {
+    "Year": "1/1/1943",
+    "Temperature": -0.03,
+    "Country": "EU",
+    "Emissions": 1785.349815
+  },
+  {
+    "Year": "1/1/1944",
+    "Temperature": 0.39,
+    "Country": "EU",
+    "Emissions": 1582.05433
+  },
+  {
+    "Year": "1/1/1945",
+    "Temperature": 0.16,
+    "Country": "EU",
+    "Emissions": 908.78436
+  },
+  {
+    "Year": "1/1/1946",
+    "Temperature": 0.24,
+    "Country": "EU",
+    "Emissions": 1281.827409
+  },
+  {
+    "Year": "1/1/1947",
+    "Temperature": -0.16,
+    "Country": "EU",
+    "Emissions": 1449.660191
+  },
+  {
+    "Year": "1/1/1948",
+    "Temperature": 0.06,
+    "Country": "EU",
+    "Emissions": 1568.466682
+  },
+  {
+    "Year": "1/1/1949",
+    "Temperature": 0.12,
+    "Country": "EU",
+    "Emissions": 1693.416322
+  },
+  {
+    "Year": "1/1/1950",
+    "Temperature": -0.29,
+    "Country": "EU",
+    "Emissions": 1775.468523
+  },
+  {
+    "Year": "1/1/1951",
+    "Temperature": -0.28,
+    "Country": "EU",
+    "Emissions": 1971.717845
+  },
+  {
+    "Year": "1/1/1952",
+    "Temperature": 0.13,
+    "Country": "EU",
+    "Emissions": 2011.99656
+  },
+  {
+    "Year": "1/1/1953",
+    "Temperature": 0.09,
+    "Country": "EU",
+    "Emissions": 2051.468088
+  },
+  {
+    "Year": "1/1/1954",
+    "Temperature": -0.2,
+    "Country": "EU",
+    "Emissions": 2160.288638
+  },
+  {
+    "Year": "1/1/1955",
+    "Temperature": 0.14,
+    "Country": "EU",
+    "Emissions": 2315.680769
+  },
+  {
+    "Year": "1/1/1956",
+    "Temperature": -0.14,
+    "Country": "EU",
+    "Emissions": 2436.303186
+  },
+  {
+    "Year": "1/1/1957",
+    "Temperature": -0.09,
+    "Country": "EU",
+    "Emissions": 2491.532944
+  },
+  {
+    "Year": "1/1/1958",
+    "Temperature": 0.32,
+    "Country": "EU",
+    "Emissions": 2461.253212
+  },
+  {
+    "Year": "1/1/1959",
+    "Temperature": 0.16,
+    "Country": "EU",
+    "Emissions": 2480.987299
+  },
+  {
+    "Year": "1/1/1960",
+    "Temperature": 0.04,
+    "Country": "EU",
+    "Emissions": 2651.835068
+  },
+  {
+    "Year": "1/1/1961",
+    "Temperature": 0.13,
+    "Country": "EU",
+    "Emissions": 2746.248923
+  },
+  {
+    "Year": "1/1/1962",
+    "Temperature": 0.12,
+    "Country": "EU",
+    "Emissions": 2905.379335
+  },
+  {
+    "Year": "1/1/1963",
+    "Temperature": 0.06,
+    "Country": "EU",
+    "Emissions": 3103.79523
+  },
+  {
+    "Year": "1/1/1964",
+    "Temperature": 0.01,
+    "Country": "EU",
+    "Emissions": 3219.404049
+  },
+  {
+    "Year": "1/1/1965",
+    "Temperature": -0.07,
+    "Country": "EU",
+    "Emissions": 3277.903181
+  },
+  {
+    "Year": "1/1/1966",
+    "Temperature": -0.05,
+    "Country": "EU",
+    "Emissions": 3333.478039
+  },
+  {
+    "Year": "1/1/1967",
+    "Temperature": -0.09,
+    "Country": "EU",
+    "Emissions": 3369.191684
+  },
+  {
+    "Year": "1/1/1968",
+    "Temperature": -0.2,
+    "Country": "EU",
+    "Emissions": 3555.572031
+  },
+  {
+    "Year": "1/1/1969",
+    "Temperature": -0.09,
+    "Country": "EU",
+    "Emissions": 3779.160848
+  },
+  {
+    "Year": "1/1/1970",
+    "Temperature": 0.14,
+    "Country": "EU",
+    "Emissions": 3950.95787
+  },
+  {
+    "Year": "1/1/1971",
+    "Temperature": 0.01,
+    "Country": "EU",
+    "Emissions": 4042.467178
+  },
+  {
+    "Year": "1/1/1972",
+    "Temperature": -0.24,
+    "Country": "EU",
+    "Emissions": 4157.629886
+  },
+  {
+    "Year": "1/1/1973",
+    "Temperature": 0.28,
+    "Country": "EU",
+    "Emissions": 4352.984397
+  },
+  {
+    "Year": "1/1/1974",
+    "Temperature": -0.19,
+    "Country": "EU",
+    "Emissions": 4291.269651
+  },
+  {
+    "Year": "1/1/1975",
+    "Temperature": 0.11,
+    "Country": "EU",
+    "Emissions": 4190.22018
+  },
+  {
+    "Year": "1/1/1976",
+    "Temperature": -0.02,
+    "Country": "EU",
+    "Emissions": 4478.337111
+  },
+  {
+    "Year": "1/1/1977",
+    "Temperature": 0.13,
+    "Country": "EU",
+    "Emissions": 4437.011997
+  },
+  {
+    "Year": "1/1/1978",
+    "Temperature": 0.16,
+    "Country": "EU",
+    "Emissions": 4570.336644
+  },
+  {
+    "Year": "1/1/1979",
+    "Temperature": 0.15,
+    "Country": "EU",
+    "Emissions": 4739.694113
+  },
+  {
+    "Year": "1/1/1980",
+    "Temperature": 0.33,
+    "Country": "EU",
+    "Emissions": 4635.083659
+  },
+  {
+    "Year": "1/1/1981",
+    "Temperature": 0.51,
+    "Country": "EU",
+    "Emissions": 4403.827454
+  },
+  {
+    "Year": "1/1/1982",
+    "Temperature": 0.14,
+    "Country": "EU",
+    "Emissions": 4300.727189
+  },
+  {
+    "Year": "1/1/1983",
+    "Temperature": 0.53,
+    "Country": "EU",
+    "Emissions": 4257.821572
+  },
+  {
+    "Year": "1/1/1984",
+    "Temperature": 0.3,
+    "Country": "EU",
+    "Emissions": 4271.056041
+  },
+  {
+    "Year": "1/1/1985",
+    "Temperature": 0.22,
+    "Country": "EU",
+    "Emissions": 4359.265317
+  },
+  {
+    "Year": "1/1/1986",
+    "Temperature": 0.31,
+    "Country": "EU",
+    "Emissions": 4358.698395
+  },
+  {
+    "Year": "1/1/1987",
+    "Temperature": 0.32,
+    "Country": "EU",
+    "Emissions": 4395.560652
+  },
+  {
+    "Year": "1/1/1988",
+    "Temperature": 0.56,
+    "Country": "EU",
+    "Emissions": 4351.622859
+  },
+  {
+    "Year": "1/1/1989",
+    "Temperature": 0.17,
+    "Country": "EU",
+    "Emissions": 4402.668236
+  },
+  {
+    "Year": "1/1/1990",
+    "Temperature": 0.36,
+    "Country": "EU",
+    "Emissions": 4468.532335
+  },
+  {
+    "Year": "1/1/1991",
+    "Temperature": 0.43,
+    "Country": "EU",
+    "Emissions": 4415.918318
+  },
+  {
+    "Year": "1/1/1992",
+    "Temperature": 0.46,
+    "Country": "EU",
+    "Emissions": 4274.199906
+  },
+  {
+    "Year": "1/1/1993",
+    "Temperature": 0.36,
+    "Country": "EU",
+    "Emissions": 4190.182549
+  },
+  {
+    "Year": "1/1/1994",
+    "Temperature": 0.27,
+    "Country": "EU",
+    "Emissions": 4172.49475
+  },
+  {
+    "Year": "1/1/1995",
+    "Temperature": 0.56,
+    "Country": "EU",
+    "Emissions": 4215.605852
+  },
+  {
+    "Year": "1/1/1996",
+    "Temperature": 0.25,
+    "Country": "EU",
+    "Emissions": 4320.573186
+  },
+  {
+    "Year": "1/1/1997",
+    "Temperature": 0.34,
+    "Country": "EU",
+    "Emissions": 4230.800873
+  },
+  {
+    "Year": "1/1/1998",
+    "Temperature": 0.6,
+    "Country": "EU",
+    "Emissions": 4227.630638
+  },
+  {
+    "Year": "1/1/1999",
+    "Temperature": 0.51,
+    "Country": "EU",
+    "Emissions": 4161.83953
+  },
+  {
+    "Year": "1/1/2000",
+    "Temperature": 0.34,
+    "Country": "EU",
+    "Emissions": 4180.6266
+  },
+  {
+    "Year": "1/1/2001",
+    "Temperature": 0.47,
+    "Country": "EU",
+    "Emissions": 4245.68312
+  },
+  {
+    "Year": "1/1/2002",
+    "Temperature": 0.71,
+    "Country": "EU",
+    "Emissions": 4231.564515
+  },
+  {
+    "Year": "1/1/2003",
+    "Temperature": 0.72,
+    "Country": "EU",
+    "Emissions": 4327.041102
+  },
+  {
+    "Year": "1/1/2004",
+    "Temperature": 0.61,
+    "Country": "EU",
+    "Emissions": 4339.065973
+  },
+  {
+    "Year": "1/1/2005",
+    "Temperature": 0.65,
+    "Country": "EU",
+    "Emissions": 4316.457772
+  },
+  {
+    "Year": "1/1/2006",
+    "Temperature": 0.51,
+    "Country": "EU",
+    "Emissions": 4322.529542
+  },
+  {
+    "Year": "1/1/2007",
+    "Temperature": 0.92,
+    "Country": "EU",
+    "Emissions": 4275.779427
+  },
+  {
+    "Year": "1/1/2008",
+    "Temperature": 0.27,
+    "Country": "EU",
+    "Emissions": 4175.796344
+  },
+  {
+    "Year": "1/1/2009",
+    "Temperature": 0.6,
+    "Country": "EU",
+    "Emissions": 3834.814907
+  },
+  {
+    "Year": "1/1/2010",
+    "Temperature": 0.73,
+    "Country": "EU",
+    "Emissions": 3954.061297
+  },
+  {
+    "Year": "1/1/2011",
+    "Temperature": 0.47,
+    "Country": "EU",
+    "Emissions": 3806.321253
+  },
+  {
+    "Year": "1/1/2012",
+    "Temperature": 0.44,
+    "Country": "EU",
+    "Emissions": 3748.730245
+  },
+  {
+    "Year": "1/1/2013",
+    "Temperature": 0.62,
+    "Country": "EU",
+    "Emissions": 3657.892803
+  },
+  {
+    "Year": "1/1/2014",
+    "Temperature": 0.7,
+    "Country": "EU",
+    "Emissions": 3483.746541
+  },
+  {
+    "Year": "1/1/2015",
+    "Temperature": 0.83,
+    "Country": "EU",
+    "Emissions": 3521.460084
+  },
+  {
+    "Year": "1/1/2016",
+    "Temperature": 1.12,
+    "Country": "EU",
+    "Emissions": 3502.62516
+  },
+  {
+    "Year": "1/1/2017",
+    "Temperature": 0.98,
+    "Country": "EU",
+    "Emissions": 3515.587356
+  },
+  {
+    "Year": "1/1/2018",
+    "Temperature": 0.76,
+    "Country": "EU",
+    "Emissions": 3434.629181
+  },
+  {
+    "Year": "1/1/2019",
+    "Temperature": 0.94,
+    "Country": "EU",
+    "Emissions": 3286.784536
+  },
+  {
+    "Year": "1/1/2020",
+    "Temperature": 1.15,
+    "Country": "EU",
+    "Emissions": 3286.784536
+  },
+  {
+    "Year": "1/1/2021",
+    "Temperature": 0.8,
+    "Country": "EU",
+    "Emissions": 3286.784536
+  },
+  {
+    "Year": "01/01/1880",
+    "Temperature": -0.06,
+    "Country": "China",
+    "Emissions": 0
+  },
+  {
+    "Year": "01/01/1881",
+    "Temperature": -0.09,
+    "Country": "China",
+    "Emissions": 0
+  },
+  {
+    "Year": "01/01/1882",
+    "Temperature": 0.08,
+    "Country": "China",
+    "Emissions": 0
+  },
+  {
+    "Year": "01/01/1883",
+    "Temperature": -0.28,
+    "Country": "China",
+    "Emissions": 0
+  },
+  {
+    "Year": "01/01/1884",
+    "Temperature": -0.24,
+    "Country": "China",
+    "Emissions": 0
+  },
+  {
+    "Year": "01/01/1885",
+    "Temperature": -0.45,
+    "Country": "China",
+    "Emissions": 0
+  },
+  {
+    "Year": "01/01/1886",
+    "Temperature": -0.18,
+    "Country": "China",
+    "Emissions": 0
+  },
+  {
+    "Year": "01/01/1887",
+    "Temperature": -0.53,
+    "Country": "China",
+    "Emissions": 0
+  },
+  {
+    "Year": "01/01/1888",
+    "Temperature": -0.33,
+    "Country": "China",
+    "Emissions": 0
+  },
+  {
+    "Year": "01/01/1889",
+    "Temperature": -0.03,
+    "Country": "China",
+    "Emissions": 0
+  },
+  {
+    "Year": "01/01/1890",
+    "Temperature": -0.34,
+    "Country": "China",
+    "Emissions": 0
+  },
+  {
+    "Year": "01/01/1891",
+    "Temperature": -0.4,
+    "Country": "China",
+    "Emissions": 0
+  },
+  {
+    "Year": "01/01/1892",
+    "Temperature": -0.25,
+    "Country": "China",
+    "Emissions": 0
+  },
+  {
+    "Year": "01/01/1893",
+    "Temperature": -0.74,
+    "Country": "China",
+    "Emissions": 0
+  },
+  {
+    "Year": "01/01/1894",
+    "Temperature": -0.42,
+    "Country": "China",
+    "Emissions": 0
+  },
+  {
+    "Year": "01/01/1895",
+    "Temperature": -0.44,
+    "Country": "China",
+    "Emissions": 0
+  },
+  {
+    "Year": "01/01/1896",
+    "Temperature": -0.15,
+    "Country": "China",
+    "Emissions": 0
+  },
+  {
+    "Year": "01/01/1897",
+    "Temperature": -0.13,
+    "Country": "China",
+    "Emissions": 0
+  },
+  {
+    "Year": "01/01/1898",
+    "Temperature": -0.01,
+    "Country": "China",
+    "Emissions": 0
+  },
+  {
+    "Year": "01/01/1899",
+    "Temperature": -0.14,
+    "Country": "China",
+    "Emissions": 0.095264
+  },
+  {
+    "Year": "1/1/1900",
+    "Temperature": -0.35,
+    "Country": "China",
+    "Emissions": 0.095264
+  },
+  {
+    "Year": "1/1/1901",
+    "Temperature": -0.13,
+    "Country": "China",
+    "Emissions": 1.963904
+  },
+  {
+    "Year": "1/1/1902",
+    "Temperature": -0.1,
+    "Country": "China",
+    "Emissions": 2.08848
+  },
+  {
+    "Year": "1/1/1903",
+    "Temperature": -0.24,
+    "Country": "China",
+    "Emissions": 2.297328
+  },
+  {
+    "Year": "1/1/1904",
+    "Temperature": -0.62,
+    "Country": "China",
+    "Emissions": 17.11088
+  },
+  {
+    "Year": "1/1/1905",
+    "Temperature": -0.35,
+    "Country": "China",
+    "Emissions": 16.839744
+  },
+  {
+    "Year": "1/1/1906",
+    "Temperature": -0.14,
+    "Country": "China",
+    "Emissions": 22.731456
+  },
+  {
+    "Year": "1/1/1907",
+    "Temperature": -0.37,
+    "Country": "China",
+    "Emissions": 20.837168
+  },
+  {
+    "Year": "1/1/1908",
+    "Temperature": -0.38,
+    "Country": "China",
+    "Emissions": 18.748688
+  },
+  {
+    "Year": "1/1/1909",
+    "Temperature": -0.58,
+    "Country": "China",
+    "Emissions": 27.8464
+  },
+  {
+    "Year": "1/1/1910",
+    "Temperature": -0.36,
+    "Country": "China",
+    "Emissions": 9.786544
+  },
+  {
+    "Year": "1/1/1911",
+    "Temperature": -0.55,
+    "Country": "China",
+    "Emissions": 10.757504
+  },
+  {
+    "Year": "1/1/1912",
+    "Temperature": -0.28,
+    "Country": "China",
+    "Emissions": 15.106672
+  },
+  {
+    "Year": "1/1/1913",
+    "Temperature": -0.35,
+    "Country": "China",
+    "Emissions": 16.088624
+  },
+  {
+    "Year": "1/1/1914",
+    "Temperature": 0.11,
+    "Country": "China",
+    "Emissions": 17.964592
+  },
+  {
+    "Year": "1/1/1915",
+    "Temperature": -0.15,
+    "Country": "China",
+    "Emissions": 19.851552
+  },
+  {
+    "Year": "1/1/1916",
+    "Temperature": -0.13,
+    "Country": "China",
+    "Emissions": 21.042352
+  },
+  {
+    "Year": "1/1/1917",
+    "Temperature": -0.53,
+    "Country": "China",
+    "Emissions": 24.25568
+  },
+  {
+    "Year": "1/1/1918",
+    "Temperature": -0.32,
+    "Country": "China",
+    "Emissions": 26.769184
+  },
+  {
+    "Year": "1/1/1919",
+    "Temperature": -0.23,
+    "Country": "China",
+    "Emissions": 25.288928
+  },
+  {
+    "Year": "1/1/1920",
+    "Temperature": -0.2,
+    "Country": "China",
+    "Emissions": 26.633616
+  },
+  {
+    "Year": "1/1/1921",
+    "Temperature": -0.07,
+    "Country": "China",
+    "Emissions": 32.1516
+  },
+  {
+    "Year": "1/1/1922",
+    "Temperature": -0.3,
+    "Country": "China",
+    "Emissions": 35.093792
+  },
+  {
+    "Year": "1/1/1923",
+    "Temperature": -0.24,
+    "Country": "China",
+    "Emissions": 33.221488
+  },
+  {
+    "Year": "1/1/1924",
+    "Temperature": -0.22,
+    "Country": "China",
+    "Emissions": 29.590464
+  },
+  {
+    "Year": "1/1/1925",
+    "Temperature": -0.4,
+    "Country": "China",
+    "Emissions": 33.5256
+  },
+  {
+    "Year": "1/1/1926",
+    "Temperature": 0.13,
+    "Country": "China",
+    "Emissions": 34.107659
+  },
+  {
+    "Year": "1/1/1927",
+    "Temperature": -0.23,
+    "Country": "China",
+    "Emissions": 35.804175
+  },
+  {
+    "Year": "1/1/1928",
+    "Temperature": -0.08,
+    "Country": "China",
+    "Emissions": 37.907915
+  },
+  {
+    "Year": "1/1/1929",
+    "Temperature": -0.49,
+    "Country": "China",
+    "Emissions": 40.240718
+  },
+  {
+    "Year": "1/1/1930",
+    "Temperature": -0.34,
+    "Country": "China",
+    "Emissions": 38.584548
+  },
+  {
+    "Year": "1/1/1931",
+    "Temperature": -0.03,
+    "Country": "China",
+    "Emissions": 42.194279
+  },
+  {
+    "Year": "1/1/1932",
+    "Temperature": 0.15,
+    "Country": "China",
+    "Emissions": 49.254158
+  },
+  {
+    "Year": "1/1/1933",
+    "Temperature": -0.29,
+    "Country": "China",
+    "Emissions": 57.596609
+  },
+  {
+    "Year": "1/1/1934",
+    "Temperature": -0.3,
+    "Country": "China",
+    "Emissions": 64.955167
+  },
+  {
+    "Year": "1/1/1935",
+    "Temperature": -0.28,
+    "Country": "China",
+    "Emissions": 60.490599
+  },
+  {
+    "Year": "1/1/1936",
+    "Temperature": -0.27,
+    "Country": "China",
+    "Emissions": 55.302605
+  },
+  {
+    "Year": "1/1/1937",
+    "Temperature": -0.18,
+    "Country": "China",
+    "Emissions": 67.113397
+  },
+  {
+    "Year": "1/1/1938",
+    "Temperature": 0.02,
+    "Country": "China",
+    "Emissions": 86.046622
+  },
+  {
+    "Year": "1/1/1939",
+    "Temperature": -0.11,
+    "Country": "China",
+    "Emissions": 107.517569
+  },
+  {
+    "Year": "1/1/1940",
+    "Temperature": 0.01,
+    "Country": "China",
+    "Emissions": 113.740632
+  },
+  {
+    "Year": "1/1/1941",
+    "Temperature": 0.27,
+    "Country": "China",
+    "Emissions": 97.178706
+  },
+  {
+    "Year": "1/1/1942",
+    "Temperature": 0.29,
+    "Country": "China",
+    "Emissions": 97.768868
+  },
+  {
+    "Year": "1/1/1943",
+    "Temperature": -0.03,
+    "Country": "China",
+    "Emissions": 50.347067
+  },
+  {
+    "Year": "1/1/1944",
+    "Temperature": 0.39,
+    "Country": "China",
+    "Emissions": 31.259005
+  },
+  {
+    "Year": "1/1/1945",
+    "Temperature": 0.16,
+    "Country": "China",
+    "Emissions": 33.553489
+  },
+  {
+    "Year": "1/1/1946",
+    "Temperature": 0.24,
+    "Country": "China",
+    "Emissions": 23.836342
+  },
+  {
+    "Year": "1/1/1947",
+    "Temperature": -0.16,
+    "Country": "China",
+    "Emissions": 59.272351
+  },
+  {
+    "Year": "1/1/1948",
+    "Temperature": 0.06,
+    "Country": "China",
+    "Emissions": 78.581973
+  },
+  {
+    "Year": "1/1/1949",
+    "Temperature": 0.12,
+    "Country": "China",
+    "Emissions": 101.617407
+  },
+  {
+    "Year": "1/1/1950",
+    "Temperature": -0.29,
+    "Country": "China",
+    "Emissions": 127.986899
+  },
+  {
+    "Year": "1/1/1951",
+    "Temperature": -0.28,
+    "Country": "China",
+    "Emissions": 133.783734
+  },
+  {
+    "Year": "1/1/1952",
+    "Temperature": 0.13,
+    "Country": "China",
+    "Emissions": 160.87849
+  },
+  {
+    "Year": "1/1/1953",
+    "Temperature": 0.09,
+    "Country": "China",
+    "Emissions": 190.521363
+  },
+  {
+    "Year": "1/1/1954",
+    "Temperature": -0.2,
+    "Country": "China",
+    "Emissions": 215.823723
+  },
+  {
+    "Year": "1/1/1955",
+    "Temperature": 0.14,
+    "Country": "China",
+    "Emissions": 255.784976
+  },
+  {
+    "Year": "1/1/1956",
+    "Temperature": -0.14,
+    "Country": "China",
+    "Emissions": 524.617469
+  },
+  {
+    "Year": "1/1/1957",
+    "Temperature": -0.09,
+    "Country": "China",
+    "Emissions": 720.152147
+  },
+  {
+    "Year": "1/1/1958",
+    "Temperature": 0.32,
+    "Country": "China",
+    "Emissions": 778.979466
+  },
+  {
+    "Year": "1/1/1959",
+    "Temperature": 0.16,
+    "Country": "China",
+    "Emissions": 550.958537
+  },
+  {
+    "Year": "1/1/1960",
+    "Temperature": 0.04,
+    "Country": "China",
+    "Emissions": 439.342105
+  },
+  {
+    "Year": "1/1/1961",
+    "Temperature": 0.13,
+    "Country": "China",
+    "Emissions": 435.517597
+  },
+  {
+    "Year": "1/1/1962",
+    "Temperature": 0.12,
+    "Country": "China",
+    "Emissions": 435.703723
+  },
+  {
+    "Year": "1/1/1963",
+    "Temperature": 0.06,
+    "Country": "China",
+    "Emissions": 474.680625
+  },
+  {
+    "Year": "1/1/1964",
+    "Temperature": 0.01,
+    "Country": "China",
+    "Emissions": 521.458919
+  },
+  {
+    "Year": "1/1/1965",
+    "Temperature": -0.07,
+    "Country": "China",
+    "Emissions": 432.223557
+  },
+  {
+    "Year": "1/1/1966",
+    "Temperature": -0.05,
+    "Country": "China",
+    "Emissions": 467.805643
+  },
+  {
+    "Year": "1/1/1967",
+    "Temperature": -0.09,
+    "Country": "China",
+    "Emissions": 575.944671
+  },
+  {
+    "Year": "1/1/1968",
+    "Temperature": -0.2,
+    "Country": "China",
+    "Emissions": 770.16719
+  },
+  {
+    "Year": "1/1/1969",
+    "Temperature": -0.09,
+    "Country": "China",
+    "Emissions": 874.016359
+  },
+  {
+    "Year": "1/1/1970",
+    "Temperature": 0.14,
+    "Country": "China",
+    "Emissions": 928.89395
+  },
+  {
+    "Year": "1/1/1971",
+    "Temperature": 0.01,
+    "Country": "China",
+    "Emissions": 965.646606
+  },
+  {
+    "Year": "1/1/1972",
+    "Temperature": -0.24,
+    "Country": "China",
+    "Emissions": 985.085216
+  },
+  {
+    "Year": "1/1/1973",
+    "Temperature": 0.28,
+    "Country": "China",
+    "Emissions": 1142.101906
+  },
+  {
+    "Year": "1/1/1974",
+    "Temperature": -0.19,
+    "Country": "China",
+    "Emissions": 1190.964522
+  },
+  {
+    "Year": "1/1/1975",
+    "Temperature": 0.11,
+    "Country": "China",
+    "Emissions": 1304.402788
+  },
+  {
+    "Year": "1/1/1976",
+    "Temperature": -0.02,
+    "Country": "China",
+    "Emissions": 1455.257506
+  },
+  {
+    "Year": "1/1/1977",
+    "Temperature": 0.13,
+    "Country": "China",
+    "Emissions": 1487.1131
+  },
+  {
+    "Year": "1/1/1978",
+    "Temperature": 0.16,
+    "Country": "China",
+    "Emissions": 1458.886738
+  },
+  {
+    "Year": "1/1/1979",
+    "Temperature": 0.15,
+    "Country": "China",
+    "Emissions": 1442.782279
+  },
+  {
+    "Year": "1/1/1980",
+    "Temperature": 0.33,
+    "Country": "China",
+    "Emissions": 1570.468325
+  },
+  {
+    "Year": "1/1/1981",
+    "Temperature": 0.51,
+    "Country": "China",
+    "Emissions": 1655.810483
+  },
+  {
+    "Year": "1/1/1982",
+    "Temperature": 0.14,
+    "Country": "China",
+    "Emissions": 1802.317096
+  },
+  {
+    "Year": "1/1/1983",
+    "Temperature": 0.53,
+    "Country": "China",
+    "Emissions": 1951.773228
+  },
+  {
+    "Year": "1/1/1984",
+    "Temperature": 0.3,
+    "Country": "China",
+    "Emissions": 2052.241986
+  },
+  {
+    "Year": "1/1/1985",
+    "Temperature": 0.22,
+    "Country": "China",
+    "Emissions": 2191.053006
+  },
+  {
+    "Year": "1/1/1986",
+    "Temperature": 0.31,
+    "Country": "China",
+    "Emissions": 2347.763494
+  },
+  {
+    "Year": "1/1/1987",
+    "Temperature": 0.32,
+    "Country": "China",
+    "Emissions": 2386.884968
+  },
+  {
+    "Year": "1/1/1988",
+    "Temperature": 0.56,
+    "Country": "China",
+    "Emissions": 2420.78942
+  },
+  {
+    "Year": "1/1/1989",
+    "Temperature": 0.17,
+    "Country": "China",
+    "Emissions": 2538.029952
+  },
+  {
+    "Year": "1/1/1990",
+    "Temperature": 0.36,
+    "Country": "China",
+    "Emissions": 2653.192085
+  },
+  {
+    "Year": "1/1/1991",
+    "Temperature": 0.43,
+    "Country": "China",
+    "Emissions": 2835.795473
+  },
+  {
+    "Year": "1/1/1992",
+    "Temperature": 0.46,
+    "Country": "China",
+    "Emissions": 3010.242401
+  },
+  {
+    "Year": "1/1/1993",
+    "Temperature": 0.36,
+    "Country": "China",
+    "Emissions": 3265.056964
+  },
+  {
+    "Year": "1/1/1994",
+    "Temperature": 0.27,
+    "Country": "China",
+    "Emissions": 3408.346591
+  },
+  {
+    "Year": "1/1/1995",
+    "Temperature": 0.56,
+    "Country": "China",
+    "Emissions": 3414.549286
+  },
+  {
+    "Year": "1/1/1996",
+    "Temperature": 0.25,
+    "Country": "China",
+    "Emissions": 3265.902621
+  },
+  {
+    "Year": "1/1/1997",
+    "Temperature": 0.34,
+    "Country": "China",
+    "Emissions": 3258.135129
+  },
+  {
+    "Year": "1/1/1998",
+    "Temperature": 0.6,
+    "Country": "China",
+    "Emissions": 3349.295022
+  },
+  {
+    "Year": "1/1/1999",
+    "Temperature": 0.51,
+    "Country": "China",
+    "Emissions": 3426.143795
+  },
+  {
+    "Year": "1/1/2000",
+    "Temperature": 0.34,
+    "Country": "China",
+    "Emissions": 3782.439297
+  },
+  {
+    "Year": "1/1/2001",
+    "Temperature": 0.47,
+    "Country": "China",
+    "Emissions": 4452.310296
+  },
+  {
+    "Year": "1/1/2002",
+    "Temperature": 0.71,
+    "Country": "China",
+    "Emissions": 5125.894416
+  },
+  {
+    "Year": "1/1/2003",
+    "Temperature": 0.72,
+    "Country": "China",
+    "Emissions": 5771.16844
+  },
+  {
+    "Year": "1/1/2004",
+    "Temperature": 0.61,
+    "Country": "China",
+    "Emissions": 6377.748016
+  },
+  {
+    "Year": "1/1/2005",
+    "Temperature": 0.65,
+    "Country": "China",
+    "Emissions": 6861.750652
+  },
+  {
+    "Year": "1/1/2006",
+    "Temperature": 0.51,
+    "Country": "China",
+    "Emissions": 7375.189907
+  },
+  {
+    "Year": "1/1/2007",
+    "Temperature": 0.92,
+    "Country": "China",
+    "Emissions": 7758.811768
+  },
+  {
+    "Year": "1/1/2008",
+    "Temperature": 0.27,
+    "Country": "China",
+    "Emissions": 8500.542695
+  },
+  {
+    "Year": "1/1/2009",
+    "Temperature": 0.6,
+    "Country": "China",
+    "Emissions": 9388.199234
+  },
+  {
+    "Year": "1/1/2010",
+    "Temperature": 0.73,
+    "Country": "China",
+    "Emissions": 9633.899303
+  },
+  {
+    "Year": "1/1/2011",
+    "Temperature": 0.47,
+    "Country": "China",
+    "Emissions": 9796.526887
+  },
+  {
+    "Year": "1/1/2012",
+    "Temperature": 0.44,
+    "Country": "China",
+    "Emissions": 9820.360215
+  },
+  {
+    "Year": "1/1/2013",
+    "Temperature": 0.62,
+    "Country": "China",
+    "Emissions": 9683.200711
+  },
+  {
+    "Year": "1/1/2014",
+    "Temperature": 0.7,
+    "Country": "China",
+    "Emissions": 9552.516545
+  },
+  {
+    "Year": "1/1/2015",
+    "Temperature": 0.83,
+    "Country": "China",
+    "Emissions": 9750.725978
+  },
+  {
+    "Year": "1/1/2016",
+    "Temperature": 1.12,
+    "Country": "China",
+    "Emissions": 9956.568523
+  },
+  {
+    "Year": "1/1/2017",
+    "Temperature": 0.98,
+    "Country": "China",
+    "Emissions": 10174.6811
+  },
+  {
+    "Year": "1/1/2018",
+    "Temperature": 0.76,
+    "Country": "China",
+    "Emissions": 12174.6811
+  },
+  {
+    "Year": "1/1/2019",
+    "Temperature": 0.94,
+    "Country": "China",
+    "Emissions": 12500
+  },
+  {
+    "Year": "1/1/2020",
+    "Temperature": 1.15,
+    "Country": "China",
+    "Emissions": 12600
+  },
+  {
+    "Year": "1/1/2021",
+    "Temperature": 0.8,
+    "Country": "China",
+    "Emissions": 13000
+  },
+  {
+    "Year": "01/01/1880",
+    "Temperature": -0.06,
+    "Country": "India",
+    "Emissions": 1.890123
+  },
+  {
+    "Year": "01/01/1881",
+    "Temperature": -0.09,
+    "Country": "India",
+    "Emissions": 1.842614
+  },
+  {
+    "Year": "01/01/1882",
+    "Temperature": 0.08,
+    "Country": "India",
+    "Emissions": 2.200005
+  },
+  {
+    "Year": "01/01/1883",
+    "Temperature": -0.28,
+    "Country": "India",
+    "Emissions": 2.445224
+  },
+  {
+    "Year": "01/01/1884",
+    "Temperature": -0.24,
+    "Country": "India",
+    "Emissions": 2.734599
+  },
+  {
+    "Year": "01/01/1885",
+    "Temperature": -0.45,
+    "Country": "India",
+    "Emissions": 2.46365
+  },
+  {
+    "Year": "01/01/1886",
+    "Temperature": -0.18,
+    "Country": "India",
+    "Emissions": 2.776617
+  },
+  {
+    "Year": "01/01/1887",
+    "Temperature": -0.53,
+    "Country": "India",
+    "Emissions": 3.071147
+  },
+  {
+    "Year": "01/01/1888",
+    "Temperature": -0.33,
+    "Country": "India",
+    "Emissions": 3.415159
+  },
+  {
+    "Year": "01/01/1889",
+    "Temperature": -0.03,
+    "Country": "India",
+    "Emissions": 4.028214
+  },
+  {
+    "Year": "01/01/1890",
+    "Temperature": -0.34,
+    "Country": "India",
+    "Emissions": 4.438787
+  },
+  {
+    "Year": "01/01/1891",
+    "Temperature": -0.4,
+    "Country": "India",
+    "Emissions": 4.780062
+  },
+  {
+    "Year": "01/01/1892",
+    "Temperature": -0.25,
+    "Country": "India",
+    "Emissions": 5.255615
+  },
+  {
+    "Year": "01/01/1893",
+    "Temperature": -0.74,
+    "Country": "India",
+    "Emissions": 5.551596
+  },
+  {
+    "Year": "01/01/1894",
+    "Temperature": -0.42,
+    "Country": "India",
+    "Emissions": 5.625959
+  },
+  {
+    "Year": "01/01/1895",
+    "Temperature": -0.44,
+    "Country": "India",
+    "Emissions": 7.04632
+  },
+  {
+    "Year": "01/01/1896",
+    "Temperature": -0.15,
+    "Country": "India",
+    "Emissions": 7.620662
+  },
+  {
+    "Year": "01/01/1897",
+    "Temperature": -0.13,
+    "Country": "India",
+    "Emissions": 8.266722
+  },
+  {
+    "Year": "01/01/1898",
+    "Temperature": -0.01,
+    "Country": "India",
+    "Emissions": 9.14031
+  },
+  {
+    "Year": "01/01/1899",
+    "Temperature": -0.14,
+    "Country": "India",
+    "Emissions": 10.071202
+  },
+  {
+    "Year": "1/1/1900",
+    "Temperature": -0.35,
+    "Country": "India",
+    "Emissions": 11.949647
+  },
+  {
+    "Year": "1/1/1901",
+    "Temperature": -0.13,
+    "Country": "India",
+    "Emissions": 13.201457
+  },
+  {
+    "Year": "1/1/1902",
+    "Temperature": -0.1,
+    "Country": "India",
+    "Emissions": 14.53979
+  },
+  {
+    "Year": "1/1/1903",
+    "Temperature": -0.24,
+    "Country": "India",
+    "Emissions": 14.826538
+  },
+  {
+    "Year": "1/1/1904",
+    "Temperature": -0.62,
+    "Country": "India",
+    "Emissions": 16.58798
+  },
+  {
+    "Year": "1/1/1905",
+    "Temperature": -0.35,
+    "Country": "India",
+    "Emissions": 16.958355
+  },
+  {
+    "Year": "1/1/1906",
+    "Temperature": -0.14,
+    "Country": "India",
+    "Emissions": 19.581532
+  },
+  {
+    "Year": "1/1/1907",
+    "Temperature": -0.37,
+    "Country": "India",
+    "Emissions": 21.808998
+  },
+  {
+    "Year": "1/1/1908",
+    "Temperature": -0.38,
+    "Country": "India",
+    "Emissions": 24.950163
+  },
+  {
+    "Year": "1/1/1909",
+    "Temperature": -0.58,
+    "Country": "India",
+    "Emissions": 24.181617
+  },
+  {
+    "Year": "1/1/1910",
+    "Temperature": -0.36,
+    "Country": "India",
+    "Emissions": 23.526863
+  },
+  {
+    "Year": "1/1/1911",
+    "Temperature": -0.55,
+    "Country": "India",
+    "Emissions": 24.824192
+  },
+  {
+    "Year": "1/1/1912",
+    "Temperature": -0.28,
+    "Country": "India",
+    "Emissions": 28.569723
+  },
+  {
+    "Year": "1/1/1913",
+    "Temperature": -0.35,
+    "Country": "India",
+    "Emissions": 31.519969
+  },
+  {
+    "Year": "1/1/1914",
+    "Temperature": 0.11,
+    "Country": "India",
+    "Emissions": 31.752195
+  },
+  {
+    "Year": "1/1/1915",
+    "Temperature": -0.15,
+    "Country": "India",
+    "Emissions": 33.197873
+  },
+  {
+    "Year": "1/1/1916",
+    "Temperature": -0.13,
+    "Country": "India",
+    "Emissions": 33.574148
+  },
+  {
+    "Year": "1/1/1917",
+    "Temperature": -0.53,
+    "Country": "India",
+    "Emissions": 35.079558
+  },
+  {
+    "Year": "1/1/1918",
+    "Temperature": -0.32,
+    "Country": "India",
+    "Emissions": 39.427343
+  },
+  {
+    "Year": "1/1/1919",
+    "Temperature": -0.23,
+    "Country": "India",
+    "Emissions": 43.049039
+  },
+  {
+    "Year": "1/1/1920",
+    "Temperature": -0.2,
+    "Country": "India",
+    "Emissions": 34.926942
+  },
+  {
+    "Year": "1/1/1921",
+    "Temperature": -0.07,
+    "Country": "India",
+    "Emissions": 37.568889
+  },
+  {
+    "Year": "1/1/1922",
+    "Temperature": -0.3,
+    "Country": "India",
+    "Emissions": 36.96578
+  },
+  {
+    "Year": "1/1/1923",
+    "Temperature": -0.24,
+    "Country": "India",
+    "Emissions": 38.036422
+  },
+  {
+    "Year": "1/1/1924",
+    "Temperature": -0.22,
+    "Country": "India",
+    "Emissions": 40.697477
+  },
+  {
+    "Year": "1/1/1925",
+    "Temperature": -0.4,
+    "Country": "India",
+    "Emissions": 40.153546
+  },
+  {
+    "Year": "1/1/1926",
+    "Temperature": 0.13,
+    "Country": "India",
+    "Emissions": 40.01152
+  },
+  {
+    "Year": "1/1/1927",
+    "Temperature": -0.23,
+    "Country": "India",
+    "Emissions": 41.956285
+  },
+  {
+    "Year": "1/1/1928",
+    "Temperature": -0.08,
+    "Country": "India",
+    "Emissions": 40.146965
+  },
+  {
+    "Year": "1/1/1929",
+    "Temperature": -0.49,
+    "Country": "India",
+    "Emissions": 41.784758
+  },
+  {
+    "Year": "1/1/1930",
+    "Temperature": -0.34,
+    "Country": "India",
+    "Emissions": 42.47764
+  },
+  {
+    "Year": "1/1/1931",
+    "Temperature": -0.03,
+    "Country": "India",
+    "Emissions": 38.922312
+  },
+  {
+    "Year": "1/1/1932",
+    "Temperature": 0.15,
+    "Country": "India",
+    "Emissions": 36.195632
+  },
+  {
+    "Year": "1/1/1933",
+    "Temperature": -0.29,
+    "Country": "India",
+    "Emissions": 35.532305
+  },
+  {
+    "Year": "1/1/1934",
+    "Temperature": -0.3,
+    "Country": "India",
+    "Emissions": 39.683443
+  },
+  {
+    "Year": "1/1/1935",
+    "Temperature": -0.28,
+    "Country": "India",
+    "Emissions": 41.468762
+  },
+  {
+    "Year": "1/1/1936",
+    "Temperature": -0.27,
+    "Country": "India",
+    "Emissions": 40.75871
+  },
+  {
+    "Year": "1/1/1937",
+    "Temperature": -0.18,
+    "Country": "India",
+    "Emissions": 45.149477
+  },
+  {
+    "Year": "1/1/1938",
+    "Temperature": 0.02,
+    "Country": "India",
+    "Emissions": 50.472708
+  },
+  {
+    "Year": "1/1/1939",
+    "Temperature": -0.11,
+    "Country": "India",
+    "Emissions": 49.403394
+  },
+  {
+    "Year": "1/1/1940",
+    "Temperature": 0.01,
+    "Country": "India",
+    "Emissions": 52.406007
+  },
+  {
+    "Year": "1/1/1941",
+    "Temperature": 0.27,
+    "Country": "India",
+    "Emissions": 53.67783
+  },
+  {
+    "Year": "1/1/1942",
+    "Temperature": 0.29,
+    "Country": "India",
+    "Emissions": 53.626163
+  },
+  {
+    "Year": "1/1/1943",
+    "Temperature": -0.03,
+    "Country": "India",
+    "Emissions": 46.728182
+  },
+  {
+    "Year": "1/1/1944",
+    "Temperature": 0.39,
+    "Country": "India",
+    "Emissions": 47.781764
+  },
+  {
+    "Year": "1/1/1945",
+    "Temperature": 0.16,
+    "Country": "India",
+    "Emissions": 52.969792
+  },
+  {
+    "Year": "1/1/1946",
+    "Temperature": 0.24,
+    "Country": "India",
+    "Emissions": 52.319866
+  },
+  {
+    "Year": "1/1/1947",
+    "Temperature": -0.16,
+    "Country": "India",
+    "Emissions": 53.277683
+  },
+  {
+    "Year": "1/1/1948",
+    "Temperature": 0.06,
+    "Country": "India",
+    "Emissions": 53.30141
+  },
+  {
+    "Year": "1/1/1949",
+    "Temperature": 0.12,
+    "Country": "India",
+    "Emissions": 56.290252
+  },
+  {
+    "Year": "1/1/1950",
+    "Temperature": -0.29,
+    "Country": "India",
+    "Emissions": 61.201648
+  },
+  {
+    "Year": "1/1/1951",
+    "Temperature": -0.28,
+    "Country": "India",
+    "Emissions": 64.124886
+  },
+  {
+    "Year": "1/1/1952",
+    "Temperature": 0.13,
+    "Country": "India",
+    "Emissions": 67.535549
+  },
+  {
+    "Year": "1/1/1953",
+    "Temperature": 0.09,
+    "Country": "India",
+    "Emissions": 68.816181
+  },
+  {
+    "Year": "1/1/1954",
+    "Temperature": -0.2,
+    "Country": "India",
+    "Emissions": 72.527857
+  },
+  {
+    "Year": "1/1/1955",
+    "Temperature": 0.14,
+    "Country": "India",
+    "Emissions": 78.907851
+  },
+  {
+    "Year": "1/1/1956",
+    "Temperature": -0.14,
+    "Country": "India",
+    "Emissions": 81.779196
+  },
+  {
+    "Year": "1/1/1957",
+    "Temperature": -0.09,
+    "Country": "India",
+    "Emissions": 91.772671
+  },
+  {
+    "Year": "1/1/1958",
+    "Temperature": 0.32,
+    "Country": "India",
+    "Emissions": 95.958715
+  },
+  {
+    "Year": "1/1/1959",
+    "Temperature": 0.16,
+    "Country": "India",
+    "Emissions": 101.597175
+  },
+  {
+    "Year": "1/1/1960",
+    "Temperature": 0.04,
+    "Country": "India",
+    "Emissions": 111.490724
+  },
+  {
+    "Year": "1/1/1961",
+    "Temperature": 0.13,
+    "Country": "India",
+    "Emissions": 120.583156
+  },
+  {
+    "Year": "1/1/1962",
+    "Temperature": 0.12,
+    "Country": "India",
+    "Emissions": 132.776205
+  },
+  {
+    "Year": "1/1/1963",
+    "Temperature": 0.06,
+    "Country": "India",
+    "Emissions": 142.652308
+  },
+  {
+    "Year": "1/1/1964",
+    "Temperature": 0.01,
+    "Country": "India",
+    "Emissions": 139.687953
+  },
+  {
+    "Year": "1/1/1965",
+    "Temperature": -0.07,
+    "Country": "India",
+    "Emissions": 153.921486
+  },
+  {
+    "Year": "1/1/1966",
+    "Temperature": -0.05,
+    "Country": "India",
+    "Emissions": 159.593943
+  },
+  {
+    "Year": "1/1/1967",
+    "Temperature": -0.09,
+    "Country": "India",
+    "Emissions": 159.780361
+  },
+  {
+    "Year": "1/1/1968",
+    "Temperature": -0.2,
+    "Country": "India",
+    "Emissions": 174.302775
+  },
+  {
+    "Year": "1/1/1969",
+    "Temperature": -0.09,
+    "Country": "India",
+    "Emissions": 177.645933
+  },
+  {
+    "Year": "1/1/1970",
+    "Temperature": 0.14,
+    "Country": "India",
+    "Emissions": 181.955566
+  },
+  {
+    "Year": "1/1/1971",
+    "Temperature": 0.01,
+    "Country": "India",
+    "Emissions": 192.203045
+  },
+  {
+    "Year": "1/1/1972",
+    "Temperature": -0.24,
+    "Country": "India",
+    "Emissions": 203.289313
+  },
+  {
+    "Year": "1/1/1973",
+    "Temperature": 0.28,
+    "Country": "India",
+    "Emissions": 209.354842
+  },
+  {
+    "Year": "1/1/1974",
+    "Temperature": -0.19,
+    "Country": "India",
+    "Emissions": 216.127743
+  },
+  {
+    "Year": "1/1/1975",
+    "Temperature": 0.11,
+    "Country": "India",
+    "Emissions": 234.513281
+  },
+  {
+    "Year": "1/1/1976",
+    "Temperature": -0.02,
+    "Country": "India",
+    "Emissions": 245.06782
+  },
+  {
+    "Year": "1/1/1977",
+    "Temperature": 0.13,
+    "Country": "India",
+    "Emissions": 259.296378
+  },
+  {
+    "Year": "1/1/1978",
+    "Temperature": 0.16,
+    "Country": "India",
+    "Emissions": 263.478882
+  },
+  {
+    "Year": "1/1/1979",
+    "Temperature": 0.15,
+    "Country": "India",
+    "Emissions": 276.625253
+  },
+  {
+    "Year": "1/1/1980",
+    "Temperature": 0.33,
+    "Country": "India",
+    "Emissions": 292.083123
+  },
+  {
+    "Year": "1/1/1981",
+    "Temperature": 0.51,
+    "Country": "India",
+    "Emissions": 315.362659
+  },
+  {
+    "Year": "1/1/1982",
+    "Temperature": 0.14,
+    "Country": "India",
+    "Emissions": 325.781794
+  },
+  {
+    "Year": "1/1/1983",
+    "Temperature": 0.53,
+    "Country": "India",
+    "Emissions": 352.637196
+  },
+  {
+    "Year": "1/1/1984",
+    "Temperature": 0.3,
+    "Country": "India",
+    "Emissions": 361.995848
+  },
+  {
+    "Year": "1/1/1985",
+    "Temperature": 0.22,
+    "Country": "India",
+    "Emissions": 398.069621
+  },
+  {
+    "Year": "1/1/1986",
+    "Temperature": 0.31,
+    "Country": "India",
+    "Emissions": 426.82457
+  },
+  {
+    "Year": "1/1/1987",
+    "Temperature": 0.32,
+    "Country": "India",
+    "Emissions": 455.893659
+  },
+  {
+    "Year": "1/1/1988",
+    "Temperature": 0.56,
+    "Country": "India",
+    "Emissions": 492.290758
+  },
+  {
+    "Year": "1/1/1989",
+    "Temperature": 0.17,
+    "Country": "India",
+    "Emissions": 541.292284
+  },
+  {
+    "Year": "1/1/1990",
+    "Temperature": 0.36,
+    "Country": "India",
+    "Emissions": 578.687007
+  },
+  {
+    "Year": "1/1/1991",
+    "Temperature": 0.43,
+    "Country": "India",
+    "Emissions": 616.105953
+  },
+  {
+    "Year": "1/1/1992",
+    "Temperature": 0.46,
+    "Country": "India",
+    "Emissions": 656.222624
+  },
+  {
+    "Year": "1/1/1993",
+    "Temperature": 0.36,
+    "Country": "India",
+    "Emissions": 678.115765
+  },
+  {
+    "Year": "1/1/1994",
+    "Temperature": 0.27,
+    "Country": "India",
+    "Emissions": 717.127462
+  },
+  {
+    "Year": "1/1/1995",
+    "Temperature": 0.56,
+    "Country": "India",
+    "Emissions": 762.337913
+  },
+  {
+    "Year": "1/1/1996",
+    "Temperature": 0.25,
+    "Country": "India",
+    "Emissions": 826.151223
+  },
+  {
+    "Year": "1/1/1997",
+    "Temperature": 0.34,
+    "Country": "India",
+    "Emissions": 859.9293
+  },
+  {
+    "Year": "1/1/1998",
+    "Temperature": 0.6,
+    "Country": "India",
+    "Emissions": 877.939472
+  },
+  {
+    "Year": "1/1/1999",
+    "Temperature": 0.51,
+    "Country": "India",
+    "Emissions": 951.671195
+  },
+  {
+    "Year": "1/1/2000",
+    "Temperature": 0.34,
+    "Country": "India",
+    "Emissions": 978.426962
+  },
+  {
+    "Year": "1/1/2001",
+    "Temperature": 0.47,
+    "Country": "India",
+    "Emissions": 992.529169
+  },
+  {
+    "Year": "1/1/2002",
+    "Temperature": 0.71,
+    "Country": "India",
+    "Emissions": 1022.848986
+  },
+  {
+    "Year": "1/1/2003",
+    "Temperature": 0.72,
+    "Country": "India",
+    "Emissions": 1059.415912
+  },
+  {
+    "Year": "1/1/2004",
+    "Temperature": 0.61,
+    "Country": "India",
+    "Emissions": 1125.26367
+  },
+  {
+    "Year": "1/1/2005",
+    "Temperature": 0.65,
+    "Country": "India",
+    "Emissions": 1185.760668
+  },
+  {
+    "Year": "1/1/2006",
+    "Temperature": 0.51,
+    "Country": "India",
+    "Emissions": 1259.522463
+  },
+  {
+    "Year": "1/1/2007",
+    "Temperature": 0.92,
+    "Country": "India",
+    "Emissions": 1357.915604
+  },
+  {
+    "Year": "1/1/2008",
+    "Temperature": 0.27,
+    "Country": "India",
+    "Emissions": 1462.57399
+  },
+  {
+    "Year": "1/1/2009",
+    "Temperature": 0.6,
+    "Country": "India",
+    "Emissions": 1612.514671
+  },
+  {
+    "Year": "1/1/2010",
+    "Temperature": 0.73,
+    "Country": "India",
+    "Emissions": 1678.478677
+  },
+  {
+    "Year": "1/1/2011",
+    "Temperature": 0.47,
+    "Country": "India",
+    "Emissions": 1766.06504
+  },
+  {
+    "Year": "1/1/2012",
+    "Temperature": 0.44,
+    "Country": "India",
+    "Emissions": 1941.312654
+  },
+  {
+    "Year": "1/1/2013",
+    "Temperature": 0.62,
+    "Country": "India",
+    "Emissions": 2033.412295
+  },
+  {
+    "Year": "1/1/2014",
+    "Temperature": 0.7,
+    "Country": "India",
+    "Emissions": 2184.432168
+  },
+  {
+    "Year": "1/1/2015",
+    "Temperature": 0.83,
+    "Country": "India",
+    "Emissions": 2253.428782
+  },
+  {
+    "Year": "1/1/2016",
+    "Temperature": 1.12,
+    "Country": "India",
+    "Emissions": 2392.359728
+  },
+  {
+    "Year": "1/1/2017",
+    "Temperature": 0.98,
+    "Country": "India",
+    "Emissions": 2456.847641
+  },
+  {
+    "Year": "1/1/2018",
+    "Temperature": 0.76,
+    "Country": "India",
+    "Emissions": 2591.323739
+  },
+  {
+    "Year": "1/1/2019",
+    "Temperature": 0.94,
+    "Country": "India",
+    "Emissions": 2616.44882
+  },
+  {
+    "Year": "1/1/2020",
+    "Temperature": 1.15,
+    "Country": "India",
+    "Emissions": 2714.474579
+  },
+  {
+    "Year": "1/1/2021",
+    "Temperature": 0.8,
+    "Country": "India",
+    "Emissions": 2794.275169
+  }
+]
