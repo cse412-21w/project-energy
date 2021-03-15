@@ -9,7 +9,7 @@
     {"name": "hover_store"},
     {
       "name": "source_0",
-      "url": "https://raw.githubusercontent.com/dreece2304/CSE-412/main/CombinedData.json",
+      "url": "https://raw.githubusercontent.com/cse412-21w/project-energy/main/docs/Data/ClimateData.json",
       "format": {"type": "json", "parse": {"Year": "date"}}
     },
     {
