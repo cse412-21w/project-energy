@@ -7,13 +7,13 @@ James Hutchinson
 ### Contribution Statements
 Full Group - All group members contributed towards intial ideas on visuals and the best way to display and encode the data. 
 
-Duncan Reece - Main contributer for visuals, data and writing for Slide 2, "Climate Change Visualization". Wrote information and sourced data for visual in Slide 3, "History of Solar Consumption".
+Duncan Reece - Main contributer for visuals, data, writing and HTML for Slide 2, "Greenhouse Gas Emissions", and Slide 3, "Temperature Anomalies". Wrote description and sourced data for visual in Slide 4, ""Washington State Electricity Production"", and helped build style for this slide.
 
-Mohammed Ali - Responsible for setting up website as well as creating visual and sourcing data for Slide 5, "Sunshine in Washington". 
+Mohammed Ali - Responsible for setting up website as well as creating visual and sourcing data for Slide 6, "Sunshine in Washington". 
 
-Yeesa Kee - Responsible for setting up website and created visual for Slide 3, "History of Solar Power Consumption".
+Yeesa Kee - Responsible for setting up website and created visual for Slide 4, "Washington State Electricity Production".
 
-James Hutchinson - Main contributer for visuals, data and writing for Slide 4, "The solar resource in Washinton State". Credited with original idea proposal.
+James Hutchinson - Main contributer for visuals, data and writing for Slide 5, "The solar resource in Washinton State". Credited with original idea proposal.
 
 ## Project Proposal Abstract
 Climate change is a modern problem our generation is facing and it requires us to develop solutions to combat it. A major hurdle to reducing our climate impact is through reducing the burning of fossil fuels as a primary energy source. The energy from fossil fuels is an indirect method of harnessing the sun’s power; whereas, solar panels allow for direct and clean energy conversion. Our goal is to create a cohesive research article assessing the feasibility of using solar panels for the majority of power demands in Washington state. Encompassing findings on topics such as power consumption and projections for the next 50 years and making comparisons to the availability of solar energy and its proximity to where it is consumed.  The article will visualize the progress of solar power in our electricity system and how it will have to further improve to keep-up with a growing population and energy demand. 
