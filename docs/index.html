@@ -142,19 +142,48 @@
                 <!--Sunshine days associated by season -->
                 <section>
                     <h1> Sunshine in Washington </h1>
-                    <p> Solar panels operate best in cold conditions;however, the sun must be out. Washington is known for its rainy season and hot summers. Although Washington may not have
-                        optimal weather for solar panels it does have some of the longest days during the Summers and Winters.</p>
+                    <p> Solar panels operate best in cold conditions; however, the sun must be out. Washington is known for its rainy season and hot summers. Although Washington may not have
+                        optimal weather for solar panels it does have some of the longest days during the Summers and Winters in the United States.</p>
                     
                     <p> During the summer season sunshine can beam on solar panels to generate energy for up to 15.9 hours in June. In winter it could be as low as 8.5 hours, but
-                        the solar panels may perform better due to the colder weather. </p>
-                        <div class="tableauPlaceholder" id="viz1615854426121" style="position: relative; width: 65%; height: 500px; overflow: hidden; display: block;">
-                            <noscript>
-                                <a href='#'>
-                                    <img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;da&#47;daylight_hours&#47;Sheet1&#47;1_rss.png' style='border: none' />
-                                </a>
-                            </noscript>
-                        <iframe frameboarder="0" marginheight="0" title="WA State Power Grid" allowtransparency="true" allowfullscreen="true" class="tableauViz" style="display:block; width: 85%; height:480px; margin 0px; padding: 0px; border: none;" src="https://public.tableau.com/views/eeeeeleeectricity/Sheet1?:embed=y&amp;:showVizHome=no&amp;:host_url=https%3A%2F%2Fpublic.tableau.com%2F&amp;:embed_code_version=3&amp;:tabs=no&amp;:toolbar=yes&amp;:animate_transition=yes&amp;:display_static_image=no&amp;:display_spinner=no&amp;:display_overlay=yes&amp;:display_count=yes&amp;:language=en&amp;:loadOrderID=0"></iframe></p>
-                        </div>
+                        the solar panels may perform better due to the colder weather as long as the sun is out</p>
+                        <div class='tableauPlaceholder' id='viz1615852343809' style='position: relative'>
+                        <noscript>
+                            <a href='#'>
+                                <img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;da&#47;daylight_hours&#47;Sheet1&#47;1_rss.png' style='border: none' />
+                            </a>
+                        </noscript>
+                        <object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+                            <param name='embed_code_version' value='3' /> 
+                            <param name='site_root' value='' /><param name='name' value='daylight_hours&#47;Sheet1' />
+                            <param name='tabs' value='no' />
+                            <param name='toolbar' value='yes' />
+                            <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;da&#47;daylight_hours&#47;Sheet1&#47;1.png' /> 
+                            <param name='animate_transition' value='yes' />
+                            <param name='display_static_image' value='yes' />
+                            <param name='display_spinner' value='yes' />
+                            <param name='display_overlay' value='yes' />
+                            <param name='display_count' value='yes' /><param name='language' value='en' />
+                        </object>
+                    </div>                
+                    <script type='text/javascript'>                    
+                        var divElement = document.getElementById('viz1615852343809');                    
+                        var vizElement = divElement.getElementsByTagName('object')[0];                    
+                        vizElement.style.width='60%';
+                        vizElement.style.height='480px';                    
+                        var scriptElement = document.createElement('script');                    
+                        scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+                        vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+                    </script>
+        
+                    <div class="side-by-side">
+                        <div id="weather"> </div>
+                        <p> Here over almost four years, it can be seen that majority of the days are either sunny or rainy. 60-75% of the Summer is sunny. 
+                            During the Winter about 25% of the days are sunny. Over 4 years (1460 days), there were 640 viable days to harvest solar power. This is important as now
+                            we can see their is about a 44% chance in Washington that the sun will be out. 
+                            This is important when considering if solar panels will work in the 
+                        </p>
+                    </div>
                     <div style="font-size: 60%">
                         <p>
                             Sources(links):<br>
@@ -193,7 +222,6 @@
                         </li>
                         <li>
                             <figure>
-
                               <img src="static/Duncan.jpg" alt="Portrait of man in suit">
                               <figcaption>
                                 <h2><strong>Duncan Reece</strong></h2>
@@ -241,6 +269,12 @@
         <script type="text/javascript">
             var spec = "TempAnom.vl.json";
             vegaEmbed('#TempAn', spec).then(function(result) {
+            // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+             }).catch(console.error);
+        </script>
+        <script type="text/javascript">
+            var spec = "weather_type.vg.json";
+            vegaEmbed('#weather', spec).then(function(result) {
             // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
              }).catch(console.error);
         </script>
