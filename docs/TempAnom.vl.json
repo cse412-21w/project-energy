@@ -3,7 +3,7 @@
   "description": "Multi-series line chart with labels and interactive highlight on hover.  We also set the selection's initial value to provide a better screenshot",
   "data": {"url": "https://raw.githubusercontent.com/dreece2304/CSE-412/main/CombinedData.json"},
   "padding": 5,
-  "width": 1000,
+  "width": 650,
   "height": 400,
   "transform": [
     {"calculate": "year(datum.Year)", "as": "year"},
