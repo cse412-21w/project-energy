@@ -9,7 +9,7 @@ Full Group - All group members contributed towards intial ideas on visuals and t
 
 Duncan Reece - Main contributer for visuals, data, writing and HTML for Slide 2, "Greenhouse Gas Emissions", and Slide 3, "Temperature Anomalies". Wrote description and sourced data for visual in Slide 4, ""Washington State Electricity Production"", and helped build style for this slide.
 
-Mohammed Ali - Responsible for setting up website as well as creating visual and sourcing data for Slide 6, "Sunshine in Washington". 
+Mohammed Ali - Responsible for setting up website and design, as well as creating visual and sourcing data for Slide 6. Final Slide and Slide were completed during the initial set up of the project set up.  
 
 Yeesa Kee - Responsible for setting up website and created visual for Slide 4, "Washington State Electricity Production".
 
